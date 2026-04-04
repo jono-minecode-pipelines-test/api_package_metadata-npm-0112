@@ -1,0 +1,45 @@
+{
+    "name": "1ob02k",
+    "version": "2.1.7",
+    "description": "1ob02k",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "kevinlopez19uk"
+    },
+    "license": "ISC",
+    "_id": "1ob02k@2.1.7",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.5.2",
+    "dist": {
+        "integrity": "sha512-z6E+laxA+LLrUswWJTbHb6T0JEl2+XEQSt4pQKSKLCIKrGwiGWrmGFmpdKeiEhyCShJrMKTqlIXTSZLSiApbzA==",
+        "shasum": "e3eb7abcdb68d1331b8141801da3faac568c4e53",
+        "tarball": "https://registry.npmjs.org/1ob02k/-/1ob02k-2.1.7.tgz",
+        "fileCount": 2,
+        "unpackedSize": 943,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCFmAWjF4W1ovX1aFaFByfpUacj0/iu46eHIi3efrYySgIgTppJ7eGiQ/yrRaQn/D5QlsuEbdCYAkc85Lyx9opeZpE="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "kevinlopez19uk",
+        "email": "kevinlopez19uk@cultureleb.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "kevinlopez19uk",
+            "email": "kevinlopez19uk@cultureleb.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1ob02k_2.1.7_1683403870502_0.30235244292551866"
+    },
+    "_hasShrinkwrap": false
+}

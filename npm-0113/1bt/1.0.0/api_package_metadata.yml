@@ -1,0 +1,49 @@
+{
+    "name": "1bt",
+    "version": "1.0.0",
+    "description": "this is the task",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "calc"
+    ],
+    "author": {
+        "name": "tashila"
+    },
+    "license": "ISC",
+    "_id": "1bt@1.0.0",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-K1i8FZT9cfwTD/15ft2RgYoheb4hH1mJppfTK2zlE+P6vFwh04HIBGRU/EyvATq3QnvKZUM2hz8zM3eSvadZkA==",
+        "shasum": "e7a5befa89179eae5dcc91bb7dd21d8837ecf1ac",
+        "tarball": "https://registry.npmjs.org/1bt/-/1bt-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 254,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhrhC7CRA9TVsSAnZWagAAflsP/i0Tl+RXnFcHSLG9gquO\n2k/9BXelnL1k6n7hYcVSClb3TMgrnjmFpApZEagPYVBVWIqQtQ/3VyFMkuKE\nQ9rbixNjflqyceKCnY/FgeoHTHWKJP8g5/kicqKwMikjwBqoh9Gx9UOWEDQh\nSCcgSqDhQakISUKZf3YqTNNdzzzVrrE/aUhKcz/QlG+8GzSMQ/llMfsmkVNh\ngdcUsLIsbbnxsWBtq3ZwEWREpPzlKwanH0p15+b0h/UbKlQPN1DjPKrQFXjy\nfPAIgUmQTAPB9PtgF6j23H8hijfmLh9awXYfPp/T8IHqbOWjuZczlQiOgam/\nNQH58wZMkyRNeW/LlmInSULyofzfTrqYzxrNvPvz+vbSgUTBEvVWYtMotOHa\n7fEkLEoozf+HBLa2o/oq55Q1l+DszikIvyZdLVocEqHt30MBZcB6mM0PvLfq\nEVNJ2WoCyWRrfHrbpP9WGiuFgE8C2Suwsd+QzY4Hz+u6653f04k2Uxen/i1d\n3TLDVk3xwegjbpfyApqlPgKynojCNDGVL6avc4J1PoqF2bTCqqRsY6azCP97\nV1ydzp6/C9cyC1pi7tREq8bHGjx3+eaVKQGM7wbTR1pFaDXXRnMFYZXerB5H\n+aNupFykkxoYPf+CXv49ckK95/1ttiQMU+JikM8Iqni2FP0b2eIp24DesamN\nCo+h\r\n=SoCd\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCUd5oSneFKuy0NG2Gvjg8frAknntlJp+VtOMsR5MrhHQIhAK/f3P3zZSz3SqSvHDlKkvhqm6YeMDSvzy3uNgFdxf0g"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "madhushani",
+        "email": "tashila.madhushani1994@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "madhushani",
+            "email": "tashila.madhushani1994@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1bt_1.0.0_1638797499119_0.07818780051276564"
+    },
+    "_hasShrinkwrap": false
+}

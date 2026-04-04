@@ -1,0 +1,66 @@
+{
+    "name": "1hh",
+    "version": "1.0.0",
+    "description": "Find unused npm names",
+    "homepage": "https://github.com/fssccf/searchname-npm#readme",
+    "main": "index.js",
+    "bin": {
+        "unn": "cli.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "npm",
+        "names",
+        "unused",
+        "find"
+    ],
+    "author": {
+        "name": "FSC"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/npm/npm.git"
+    },
+    "dependencies": {
+        "axios": "^0.20.0"
+    },
+    "bugs": {
+        "url": "https://github.com/npm/npm/issues"
+    },
+    "_id": "1hh@1.0.0",
+    "_nodeVersion": "14.13.1",
+    "_npmVersion": "6.14.8",
+    "dist": {
+        "integrity": "sha512-urc3dvigEsgIClFPaYhIBXdTKDX5sG2gExa5Rw38SHGS5J077KQ5J+HJDTMUi9EK1IQhvrEm14CYXdAHjstkGA==",
+        "shasum": "983fa35e77caa26fad48cc1bf942a75bb1eea867",
+        "tarball": "https://registry.npmjs.org/1hh/-/1hh-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 506,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfnnx+CRA9TVsSAnZWagAADFQP/0IXkdd0RUZ/W/PUfXOc\napuUcbZBO1l2yT4U45Ci1Pl3UchAlBrxxTyl7z9oK3OmkCnGLDiEnG/2Z13v\nFnwtk7d8hWJWRb6ZXmw44JUckddi5mVx3kvyAAr7ahO+7cEf+Obyxcq4e9ub\nPHUu/gCcWhTReOi/ZgmDGBGEbzTOE0tIa2nPgW8573c1nvQeKFXmW5bT2VBI\nN7PwEYuWXsTdjHdsZtQm4XAG4V+MVC7KBcm/gVZLuFJoXQrkANlDFMhOzzn0\nli0yIHsyax2P40HxX4TwocRUPSKZbFnaFABD0JPkh3JPiuujv9/I8ATLs4M9\nw++D3OYZ8D4TYUkusysaZiaGplacvdG2BsHf/wSmX1vpr2sDG08Y4D6sL1I+\ndwrU8LVPksrldozCgz4CCxz2Hj7GdjvcIL9oe47cCMABkntkW6mTz9BACh8c\n8yU9E0dCjNmUn6JMMlBgZ3aLfUQ7w+UvntHjV8s12nGF/GLmEdb/sH2L53yF\nCxOd8XQj2YJSQBARO/gPyd6DnQvwppqUWeBdDW7aCVnECocVpVNHKZj+jQ+5\nOkSSjH3lXL5BepzmcfE0oEsOsBW+YbUBzGNnyi6+NekClE10KgjKNq5XCX18\nm+pUVewSlW5tOsqrsIuAa1VrnNMY7/HV/hxrV+SlIt2BZEi8lgCIe5eXDFwh\nppri\r\n=atWx\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIHxAK1wmiyVmqSIlylvQ+CwHkwrZYpuF3jqyfyTdh9aUAiEA9/MRhZ12s3Hx76qvB7OSAMsv775YPc9ZceCJdv2oNWQ="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "fssccf",
+            "email": "xej@outlook.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "fssccf",
+        "email": "xej@outlook.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1hh_1.0.0_1604222078402_0.01952852720328102"
+    },
+    "_hasShrinkwrap": false
+}
