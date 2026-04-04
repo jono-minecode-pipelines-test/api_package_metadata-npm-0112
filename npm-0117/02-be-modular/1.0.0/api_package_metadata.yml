@@ -1,0 +1,51 @@
+{
+    "name": "02-be-modular",
+    "version": "1.0.0",
+    "description": "Splitting your application to modular chunks is a major step to make your code reusable.  In this lesson we will learn about the module system in node.  How to export a module How to import a module How to use npm How to use community packages and built i",
+    "main": "student.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "lodash": "4.17.11@latest"
+    },
+    "devDependencies": {
+        "karma": "^3.0.0"
+    },
+    "_id": "02-be-modular@1.0.0",
+    "_npmVersion": "6.4.1",
+    "_nodeVersion": "10.11.0",
+    "_npmUser": {
+        "name": "ywarezk",
+        "email": "ywarezk@gmail.com"
+    },
+    "dist": {
+        "integrity": "sha512-LTJ74NrHpGtBWzVMX0HR3fm8eEMlfVEEMuKUaWMGBiQZQOOIDsE5yfSXHIzE42NOu7C/bw+aE94V7eZYY8EqZg==",
+        "shasum": "f7f22d7475b68460c21684722116daca79daa3fe",
+        "tarball": "https://registry.npmjs.org/02-be-modular/-/02-be-modular-1.0.0.tgz",
+        "fileCount": 9,
+        "unpackedSize": 92866,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbtKF7CRA9TVsSAnZWagAAvh0P/2z03lK9PayHeDxre4Ly\nvEN7t087UFTd+K5B1Jes0TRpLtHALfOH/yV5yHuP61PlE1V9IqbVAjjNLeKm\nowNZQedjL9sZb3QlAnm33DHUSRUsCemibPsc8VVZ70cywuETCKu6vO12V1Dj\nxIR4r6Q8s1mm8Id1E7+zw0vYfBlANQDlSDLA9Y/6amDNL6gKq4giobfZthKt\naM6vo4M85ZJU9Y25m/5LET/vdzczDQu/EF57GnYyz3f5uI2gIZ4bC6Of5DSV\ntxy9Gg1mmhDqx8DxZQPbxUGVXGLFBLGmw6Xk2RY4rlJ4wu16NJNig+NyYA9G\nYLX16ugO5ln4G20Wx0sE7tH4NbwQHPwHx42QEJBWQR1w0Z9gOkOvCxJSLw0l\nasEoVvtxJ/eeRBMj4YRM+CcSK+cbBCZd+qq+sGVZcR9BU9QgBKYt3emzQDHj\n/BC3gzbnIi86Dr/JM+RrvINWu5hZzbIwQbgTeRi2G6mrDci14tqcjdZVieKE\nPN1oU37q5S56ZxPmUy/t+l6zLQ0Nlp3d5R3v9vHTwUgfoXBjLOY7n00XumCR\nbBRY5VwtiUmEghh8sld9raSxJnz/XOcaOilkwqrfNHyegX6hkwpzGM9LQpey\nUVYsxFlqcXedK+OFBpkzCZixAJSIYtNagfgfItH4DUt0K8Pbm2OIPe1hMyAh\nMfu7\r\n=ijXh\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIC/HymiL7HNtC9uoxOdn0Xavq0K/AvCgbVz55MmHHdQpAiEA7QnfdVD1JaBKICEMpVyD9xzGljPm0OH3pMpJVMKeHlw="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "ywarezk",
+            "email": "ywarezk@gmail.com"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/02-be-modular_1.0.0_1538564474575_0.4095542831059682"
+    },
+    "_hasShrinkwrap": false
+}
