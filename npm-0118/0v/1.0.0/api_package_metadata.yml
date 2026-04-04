@@ -1,0 +1,66 @@
+{
+    "name": "0v",
+    "version": "1.0.0",
+    "description": "fanshichao QQ:1829106",
+    "homepage": "https:www.adder.wang",
+    "main": "index.js",
+    "bin": {
+        "unn": "cli.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "npm",
+        "names",
+        "unused",
+        "find"
+    ],
+    "author": {
+        "name": "FSC"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/npm/npm.git"
+    },
+    "dependencies": {
+        "axios": "^0.20.0"
+    },
+    "bugs": {
+        "url": "https://github.com/npm/npm/issues"
+    },
+    "_id": "0v@1.0.0",
+    "_nodeVersion": "14.13.1",
+    "_npmVersion": "6.14.8",
+    "dist": {
+        "integrity": "sha512-oeccEf35y4DBr1Msv70q029A5sjiXZdMjxphtG8KxabZ8KNUJEsNCK5ZrpQGfCU2qIUuokAhBf5v3rieJW4TdA==",
+        "shasum": "74930889f6ec4eaf31363f372ea42591211f46ac",
+        "tarball": "https://registry.npmjs.org/0v/-/0v-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 478,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfi/wcCRA9TVsSAnZWagAAy8sP/AwX6noxSLKlqoeYzwar\nrW1tHpQ9WC8W9u9X3Ct4upMebX/a37aMF1Q7+/SyTSLMdcTQCJFDzQHutRIv\nugyi21qpQMTUNk4jYK75v9u2tvL0eXMq8UUvXvS8c+zSvI/bCwLz0oAv8AsE\neV5TQalccI8M1aS4LErlQBl2UAx/bcqXq7LQU2L3csXAofxgEo7wnWyJKBKV\nC97VAnwzyfqKRyH3h2zJEIcGq4dGGQim2NpM7gTC6kVfOD8vL18+XxpYd1qo\nVTAZ0i5o9THZJwnxT43hKl4FG42enIgiq241pdHgPNnUHZ67Ky0aPlA+8Qz7\nZG/zUNOk5DPKDd9kaQN67jJbI1CMu08gVE9kXI6gyX7On3cNXA/lajwGjRX/\nIjw8b8hBu5uQkqaYavTcXbjX8NEYuF+GeK2yu5mX2zj07qvAUAh948bfjlb9\n9+Hx6ZEuxSMWhy2rwfPs9izValOV52KPp/Pcxv5Ta8nsJaZ2/aNVgl+V3w8C\noC82fLvVBl3SRSIVm+kN5gqtImApbHtfzU786YZZB9yNXEiGJA7K3G+NM7Mg\nMo1TVCcRYDtKQjzcaW0zojNe32TpQV1sfi87ElL0U35+F00nousIB2C2fO8Y\nrRWLRbL9VHpESlF/yLxDoSV2jPy7b/IDVRhaxZyQbvNMIK6r4N7nzvmi2I2T\nniM+\r\n=lRji\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIDawCUFv7P7wZQpboqTYYVXcepny2n6hCWMiz8uUI23PAiEAuADQuQDN4+xN8dt0BvGP6+ANaDlABE/MV7Rj6v/+whY="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "fssccf",
+            "email": "xej@outlook.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "fssccf",
+        "email": "xej@outlook.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0v_1.0.0_1603009564544_0.800275869848446"
+    },
+    "_hasShrinkwrap": false
+}

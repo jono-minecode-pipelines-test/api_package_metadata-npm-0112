@@ -1,0 +1,45 @@
+{
+    "name": "1.15team-tools",
+    "version": "1.0.1",
+    "main": "index.js",
+    "description": "\u63d0\u4f9b\u683c\u5f0f\u5316\u65f6\u95f4\uff0cHTMLEscape\u76f8\u5173\u7684\u529f\u80fd",
+    "keywords": [
+        "1.01",
+        "itheima",
+        "escape"
+    ],
+    "license": "ISC",
+    "_id": "1.15team-tools@1.0.1",
+    "_nodeVersion": "13.11.0",
+    "_npmVersion": "6.13.7",
+    "dist": {
+        "integrity": "sha512-HThZq198fVI6rJPmGe+yTqkfBn9N0Y2D7BEDxpi5uZwGn5iq+JcbmrGxt1X0CUMz71ry2Gkwd8Ry6gbo9qWxjw==",
+        "shasum": "b5efe02d5da8d391145741fab1ec58507d1af772",
+        "tarball": "https://registry.npmjs.org/1.15team-tools/-/1.15team-tools-1.0.1.tgz",
+        "fileCount": 5,
+        "unpackedSize": 2591,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDzPtJg1EBrSoL0nLvwfV2AzIlEk8e+l3z/u/+MlanoNQIgLr9TXxaGDKOtVoJmyz0ZiBlFJt+ASWQlqtZX/rji4qg="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjb4zzACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqBFQ/+I5hmIkelRbTHn5WSY1W9y91DfmFKsRcNdi8hSiJdM42joxBZ\r\ndo+9ov5NRY0rRetnZpnC7a/qvJy8D3LGyiyK0syXlV1qiAgoBWEiI4vmeOoJ\r\nftLUBvwDIXdgxQ/02EgukRN4YMQ0fIPujfNt+CVS51p0wr6Pg1NvstYiKniu\r\nJ7pDLt2paKsMC+Kv3wJpgliWyannTfKXgwLopi0RwYz6IRNYQ1R+4JJUK//A\r\nfksEIIyVuWDGip/ASmYuaqkg3/F1+SgYDZyZwIhGZ4sB3d81KaHhItcNXPTz\r\nBzapidsu+cOV338dMz92FoKOF3I8yIBuZz08jSYZE4xz2mcOS1293V7ZlCZQ\r\ntmgsVtDjpCeVpvtJdtdbNXLjBASXmMgM6B7n/Mu/OP+SFrd1LITR6V/H9Ho/\r\nXYeYoLtquTWs3Se12vdr57MztC4PuOw2948MxvpsE3bNrSNSB7Urg+6hp6vO\r\nvaBgHIDrd81pUWMcOU64VuKnT5TQCvAVdSr2FuXqzVi8dJnABDlGM/O0atbj\r\nv4GbKuMtSzyue+wrpCmcc7zcA+lS9TQDGmnOOMskZt7NaU4eM68q+2eraA6n\r\neEupgIRHG4CdoYvA9zDqIIBBrL08wO0uZYO06ecJ7KXyu8vGO8bKyXoGuIvq\r\n+zhAW2UJEOK+Gc9hPFXRS0vRgoyZMxTV89w=\r\n=qhkU\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "duduka2",
+        "email": "3288183146@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "duduka2",
+            "email": "3288183146@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1.15team-tools_1.0.1_1668254963612_0.18640499346957706"
+    },
+    "_hasShrinkwrap": false
+}

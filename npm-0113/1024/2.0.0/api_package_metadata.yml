@@ -1,0 +1,42 @@
+{
+    "name": "1024",
+    "version": "2.0.0",
+    "description": "1024",
+    "main": "index.js",
+    "scripts": {
+        "test": "make test"
+    },
+    "keywords": [
+        "1024"
+    ],
+    "author": {
+        "name": "eleven"
+    },
+    "license": "MIT",
+    "_id": "1024@2.0.0",
+    "_shasum": "47166930d96a90e6694de8a71eb8212e9d03f19e",
+    "_from": ".",
+    "_npmVersion": "2.14.7",
+    "_nodeVersion": "4.2.3",
+    "_npmUser": {
+        "name": "yuzhigang33",
+        "email": "yuzhigang33@gmail.com"
+    },
+    "maintainers": [
+        {
+            "name": "yuzhigang33",
+            "email": "yuzhigang33@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "47166930d96a90e6694de8a71eb8212e9d03f19e",
+        "tarball": "https://registry.npmjs.org/1024/-/1024-2.0.0.tgz",
+        "integrity": "sha512-TqTf8BQctpCRysy/guR5dDzGyvr5zCngjAvv4gSiTAP6rkQXcRCwQEY2t0ry3KFU2+zKQh9bByGvKok9ldTXsQ==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIEhDD/9kFjUWgK1X+3A0CxUmFxOgeLx9e7tlb5WWH7iWAiAaG5JbqLeTCZfcAZettGaOpjb6ssev/JIvnrUFxvKc0Q=="
+            }
+        ]
+    }
+}

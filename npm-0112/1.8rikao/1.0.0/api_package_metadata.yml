@@ -1,0 +1,45 @@
+{
+    "name": "1.8rikao",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "1.8rikao@1.0.0",
+    "_nodeVersion": "14.15.4",
+    "_npmVersion": "6.14.10",
+    "dist": {
+        "integrity": "sha512-xrRthELBHSViGm27LV2UZ9doP3+nvWjA07/MubWylgt4YdWorKCSx/3xVklh4GOc4063WrNHsU7AIkmBKlPCxQ==",
+        "shasum": "43840ba995a40207e26c8eb0b5485aa5abd52101",
+        "tarball": "https://registry.npmjs.org/1.8rikao/-/1.8rikao-1.0.0.tgz",
+        "fileCount": 1,
+        "unpackedSize": 222,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJf96R9CRA9TVsSAnZWagAAJXwP/RIsypFeXtUJ1aMIJgRg\nllh7+k6Zf+65ov/OFRVFeBbFDeT2a2VNge+HH1YlASfyjOsvi26SbW/TFGlC\nDeMnlpJFfp5YAHT0mUY6WeOtrPHUybQAh0+AUVvY/k4DJZCXo09PcR3VcWYX\nUZg5t/pJ+as9M3Xzlm5CIek3quDZWjKBQQBa8FfwIQdnXuwyE29DZGfJCchY\nQKRMkTm8qmjduKjwjlwO8adXZx8nXNPiv0bZiL8ZtMbuZDMKoFAO8QS/JNhE\nm6iI3pABm9RoI80fcfZWnfHGuuiF6rSHY917YP2C8xY4/9ciw16CcCGLsE2y\niLcTVL07XVNZ5qIYGTbpEvYkSdVLuBCkWnBwIOeXywOSrLRXDDQxZLUObDJf\nf+zbGw4FIlcTVGwPZaslqOTH4aj1agBgtrGkpfnmacYH2BRLSc16NudYQzYJ\nLRX2q8A9Fil0/LEncQbrU6V3o57AdaSXVtaV/UZWefy3Z5mJm2PgkVb4k6jq\nbizodte44/oMgsMRydCuct4ALqJHiZ5yttYPpXozNQ4zlCspmdSmXEJ5CZ7e\ntX1hAnxDVWu0R/2flGpt59bIqP0X08r2goH2GfhG8nKEJwpJMGbnFSUy7IuO\nHfEXGDp1RhQ5CDe3ixyEzHJh/d7mr//JIsbIR7PqHVTBT+7uSYzq/Oq/Gbxp\nvFaj\r\n=rYag\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIFCYGKPTNN5CPW+78Bog2Wk1ZMcTonEzWHY6FWqNou+CAiEA7BNfvmlsPImvK2Hm4z5j6LhslHNwoPqMWNLraN/cbc8="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "h17634804250",
+        "email": "1498907422@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "h17634804250",
+            "email": "1498907422@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1.8rikao_1.0.0_1610065020634_0.012530057812754736"
+    },
+    "_hasShrinkwrap": false
+}

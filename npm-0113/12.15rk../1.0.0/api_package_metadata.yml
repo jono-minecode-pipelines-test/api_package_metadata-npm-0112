@@ -1,0 +1,45 @@
+{
+    "name": "12.15rk..",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "12.15rk..@1.0.0",
+    "_nodeVersion": "16.13.1",
+    "_npmVersion": "8.1.2",
+    "dist": {
+        "integrity": "sha512-PpWFlY7gRFh4CfGRXmDprIS63kzvpcPZTpC0vRW/XiXW/N+dIBKdnW3v4xUroQlj8JhUV5DPl6mTd4IAUr+Tqw==",
+        "shasum": "b777a658337404f3a9f55364a29562f62813ce2d",
+        "tarball": "https://registry.npmjs.org/12.15rk../-/12.15rk..-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 666,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhuU43CRA9TVsSAnZWagAA7xgP/j/icgDYV4hIAhM3FB1c\nkKsFi5Ehtkd93yJLl4PoKvAJD+cOb8vlIjQOhYDlpSqwx5WjvQlN597yyE6K\nfaoQt/bPb++58niF6midatpdzTplBmzoRdKBD1Hd8JDfuTRNgfMafSRMgrlZ\nB84kvin2E3k5BdoRDEwC6s1QnX3F2Z9vKyilwV/A3P4UJ9s4KRkZhYRiacou\n7krzYo2z5ki6OBXPSumKLjWAG7DXLw12WiN2HF3wSKcGTYtBhqtS5xctSQpf\nW6tFf1vgnQehIAI7E0895pIl0a61oCZH9mLWzYpFq6AVlBQhJjm2OiB9I5Pi\np7B8WypQsqsI0TX4C4ZtNQCGOsgpTbFtLSb2INRdbSzkYkCJAJifibXf15hj\ncPJ1moa27EDvSi3PlqSJT/sdxDIn3oGSci0cCL+wRO30Z/i4tAsGp75TYwTP\n4ICr6QM+tPX5T0Vn9bSfrhazs48oEer13U3TnYfJ78ElqJMOrgzRGP6FcbJr\nLJ9qEmR3Q6Iqh/j8fia4YV/LnyGp6P1G1azAihOCxY2Hv0HeJt/X8zRVxOdR\n5xqCX14y4Rmph+nerATtYfjJok1bplrSOrHuLuz9MsvcjqyZVwhiGTbLZAsm\nMj+UnJsBxvgdWPvvf75GMk/Lfv5mkIpRgp5OflayHrG8Nl2kGRsT3vDm4ffH\nT/yL\r\n=6cpS\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIH3Ero43/bw2j8v8AwJMx2QIG0PNIWWtIzOiiYl8kR8bAiBmCpyGyzax1XBlglLlc78GwYriyJ6oOItDoKor5WCO1g=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "lizhengda",
+        "email": "1980860718@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "lizhengda",
+            "email": "1980860718@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/12.15rk.._1.0.0_1639534135029_0.5383512819457978"
+    },
+    "_hasShrinkwrap": false
+}

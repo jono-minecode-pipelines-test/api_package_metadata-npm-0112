@@ -1,0 +1,45 @@
+{
+    "name": "121_heimaaaa",
+    "version": "1.0.5",
+    "description": "\u7ec3\u4e60\u5305\u5b66\u4e60\u4e00\u4e0b\u600e\u4e48\u53d1\u5e03\r \u53ef\u4ee5\u628a\u81ea\u5df1\u5b66\u8fc7\u7684\u5c01\u88c5\u8fc7\u7684js\u65b9\u6cd5,\u7edf\u4e00\u653e\u5230\u8fd9\u91cc\r \u9632\u6296/\u8282\u6d41\u51fd\u6570",
+    "main": "heima.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "121_heimaaaa@1.0.5",
+    "_nodeVersion": "14.15.3",
+    "_npmVersion": "6.14.9",
+    "dist": {
+        "integrity": "sha512-p+aTuAJdBSNzJrXahe/u9b2oz9aNDzEFqPh6j3f6RgHONfhvtjRlw5Cx1zasuKyfdIVJ8PCpynpRrzCGJ9RRDw==",
+        "shasum": "20860acc101299ee431f4d9646e8a283af84875a",
+        "tarball": "https://registry.npmjs.org/121_heimaaaa/-/121_heimaaaa-1.0.5.tgz",
+        "fileCount": 6,
+        "unpackedSize": 2778,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJf7EScCRA9TVsSAnZWagAAfUoP/ixYeR2yQEC1CRcEjs5w\nObn2sUVPtQw1gM36DqXLNrTESPmSMwBmAZ7gNh2/wQmYut+SXvT4qDgLFAHZ\nL6Z9eawm/OlUw3cQ0rdyuEvtcGn7duXoepb1JUqgzbSqLYMXqES6pH/p08uu\n4yQ0HOEo+of5AVoVd6S8gP46QIRI4eRXoVCzY0DLW1NoV5ERcqhjjO1hLVLb\niu8Q9wt6RoL36FnWkjHfalwq3jKhpOm4YnIS/jQfcJl085tgvZvNZd99ATOU\n+ypC8739zXnl9KZ7KgUkVL2smwznA/VtoYouw4hjh+eFLEuZmBAYWLvfySlJ\nNZ0WJYd0uvJ71G0fwIQzp7N07ky0zu6B5jsWyiYVcg9Q8D/ASxUnCX93a6Qj\naNPjn30svj5UTCVUx3yUbcoykAEg6inyZPIuuyVRxs3wfk1LEBj5Gx5VtLFP\n5ZMsiQto/35yHsXjt49FmVDBpLh1wT5z5W+7bzOY4HdIvHWknyxoMHsAmezJ\nHwWxZFZxZtcLjJvn1MAWite+N+n86K8LLLyXiNJyd4Cmfj1qpxlzHB55K//B\nsGHSBF8Vmwn53DtEyA1GYEaZux+FqnTpw4W/LQBMpVpPxDM+ifQDQUIO5vlS\n/DvFt3F3UUoPK3Iz4DUb+qmEk3naCTyQliM5dJ9zeNIhKOKxbGYTBpYRa2Th\ng2QT\r\n=EJHp\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDd90U4qtbDXHAvl6ffcpCtZcfhhjmngAvIn27CyNT/jQIgSkMgGZ5F0mhEHhcCRWIErwaoss3/AizHh4A7fVDIXNs="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "wangzhenchuan",
+        "email": "1969715987@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "wangzhenchuan",
+            "email": "1969715987@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/121_heimaaaa_1.0.5_1609319580352_0.8546826923577768"
+    },
+    "_hasShrinkwrap": false
+}

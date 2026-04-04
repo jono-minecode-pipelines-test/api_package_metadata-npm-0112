@@ -1,0 +1,63 @@
+{
+    "dependencies": {
+        "bagoes": "^1.1.7",
+        "bagoesgemplang": "^1.1.6",
+        "daren": "^1.2.0",
+        "elyse": "^1.2.0",
+        "kagetya": "^1.1.4",
+        "lyststea": "^1.1.4",
+        "mertea": "^1.2.0",
+        "stenly": "^1.2.0",
+        "weighty": "^1.2.0"
+    },
+    "name": "12hulkide",
+    "version": "1.1.5",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lyststen/lyststea.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lyststen/lyststea/issues"
+    },
+    "homepage": "https://github.com/lyststen/lyststea#readme",
+    "_id": "12hulkide@1.1.5",
+    "gitHead": "0e005eb7a3a40680b020f0ba7fd9793c2a306437",
+    "_nodeVersion": "20.12.2",
+    "_npmVersion": "10.5.0",
+    "dist": {
+        "integrity": "sha512-CQtWbMNoL3mxLOuaM0UIqvzblMe0BYSH9M67XeO6qTRzxE1powlu/bhcMJ/wtb1sXpUarYydXJ2NrVw22UhyEQ==",
+        "shasum": "098a7c8e9dff52c3b37c50ce8ced23f188e5780e",
+        "tarball": "https://registry.npmjs.org/12hulkide/-/12hulkide-1.1.5.tgz",
+        "fileCount": 15,
+        "unpackedSize": 213830,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDSJy18n6RlqEnMaOUXN1coyXfkS0ApTQD7xeBHAy6LDgIhALKr4Yk53oS+O9fT2UV4ML8R3XttiG/fRM0NdVVcoH0W"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "lystenlyst",
+        "email": "lystenlyst@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "lystenlyst",
+            "email": "lystenlyst@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/12hulkide_1.1.5_1714737150281_0.06204328472174736"
+    },
+    "_hasShrinkwrap": false
+}

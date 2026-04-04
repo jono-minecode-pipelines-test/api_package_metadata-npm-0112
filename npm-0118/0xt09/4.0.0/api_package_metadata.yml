@@ -1,0 +1,54 @@
+{
+    "name": "0xt09",
+    "version": "4.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/orckjr/0xt09.git"
+    },
+    "author": {
+        "name": "orckjr"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/orckjr/0xt09/issue"
+    },
+    "homepage": "https://github.com/orckjr/0xt09#readme",
+    "_id": "0xt09@4.0.0",
+    "gitHead": "9a8d5e569ed8f4e85342dbb9a5b6ea7e5e550ed9",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-uy9vnFs73kyHsZKlZzeIeyJ46RjYrY4nobJkwTDghtyqBGjtLjEVxab7kPM8T5N3TRjuUCrwygIR7TCdIgmIWg==",
+        "shasum": "4930c32b61de326a97cf2ae4a2d137fe91c930fc",
+        "tarball": "https://registry.npmjs.org/0xt09/-/0xt09-4.0.0.tgz",
+        "fileCount": 16,
+        "unpackedSize": 213810,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBJQk2Oc2sCeISJnyMiWoblwCzPI8S2pZ8mbOip9iX5RAiBcisATuMwSyaBAeT760wIM0Z31W4bLIB4jAXYrXSKH6g=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "orckjr",
+        "email": "irthori@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "orckjr",
+            "email": "irthori@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0xt09_4.0.0_1710268388250_0.5487028946162193"
+    },
+    "_hasShrinkwrap": false
+}

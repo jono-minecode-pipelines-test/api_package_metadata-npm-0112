@@ -1,0 +1,45 @@
+{
+    "name": "0rd8lz",
+    "version": "3.1.2",
+    "description": "0rd8lz",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "davidevans95lk"
+    },
+    "license": "ISC",
+    "_id": "0rd8lz@3.1.2",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.5.2",
+    "dist": {
+        "integrity": "sha512-EVYyFs+aIL41pecjfvcXqdkNfrYtsT+ta6mlmae6+rwFq/sXXjeCe+yF1IJN/BQCDEHXHGWGiLAnnI/xYwffUw==",
+        "shasum": "3528c6275b06a0ae8bb132fee11a55c04927c6c7",
+        "tarball": "https://registry.npmjs.org/0rd8lz/-/0rd8lz-3.1.2.tgz",
+        "fileCount": 2,
+        "unpackedSize": 932,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDQk2NgfF9NfqnYJqzgKNG8TNg2ubUDUHvlvfEBhX+M4AIgRDvja1q5fGXYBggOPSrZMaKY4G/gUkCZSmIlPpN/YWc="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "davidevans95lk",
+        "email": "davidevans95lk@cultureleb.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "davidevans95lk",
+            "email": "davidevans95lk@cultureleb.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0rd8lz_3.1.2_1683447283017_0.8723993438845468"
+    },
+    "_hasShrinkwrap": false
+}

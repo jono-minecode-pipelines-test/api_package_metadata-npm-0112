@@ -1,0 +1,51 @@
+{
+    "name": "1014jyh",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "reet": "index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.20.0",
+        "inquirer": "^7.3.3"
+    },
+    "_id": "1014jyh@1.0.0",
+    "_nodeVersion": "12.16.0",
+    "_npmVersion": "6.13.4",
+    "dist": {
+        "integrity": "sha512-nDlHOw1XvKfR+6SM4qHTb53XFCcIM6IaPC0NIOQnz+SZIxlSvXXdygZsEtddOfMh0XE8ua6Qs1oEH/pb8AZ3jQ==",
+        "shasum": "3043ac574e83a7da3ab380028462f5fbd6b66acb",
+        "tarball": "https://registry.npmjs.org/1014jyh/-/1014jyh-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 367,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfhkf9CRA9TVsSAnZWagAAFPwP/3EG+V3H3zFIDwijUL+/\n+A1UBTjchnycsK7ZK+cXIgUpNZjaKvjk3NG3jKv3E7xDMCZkPoNHAeZeYU6y\ngOGMP1JH6CLlctJD+otn8wBmYmGnd92bExvOfg49e6zvtzExwmM8+CE4JZfA\nu2mUyAmxpR8D6lO6OM+SPARDOr5PMmAyce6Rkw3bCVllv5gVJQeMZSVrbEiC\nlHgftUpRScL1GxHbFZ2+GWIUoy1vpCgnjKvwN+MGUBbCSwzR+QZTS2kw2y5n\nReLAqPNWC02xZohEfp6bT6e5zi6vGPsw78//SwR0OLtXOsF5t7sjI7H90A3J\nv6voMhtP+mCjd4aNayIZipLIe1Z2rSMI0VVNwG4oQMJNhiaSx6hkaTYDptBM\nQyy30YGtx9AK7JvyfzkdWs86II2p7gLAZ2zNRQfnHum9sCrBvK2OPWUrSC0r\nqIKN5Uq/15VQqhHEMv+cOjqVfJW/gAqMTCFGpdNspNoY3vmZ8d/2fptUAxTy\nDT5lB9Oz68gqGhwTVjcHjNYS6jVApZp8wDL9KYDfpE8tSRJt8xyzUAch/Mx2\n2oaZSnsfFj2YhiGzdjjpIPzQR3XkEUU4YGX++RfMgcDZQcvfDw9o+fKG6ldK\niLe9J8U5qYUicMJDlz6JU4nh3qadYByUKksRb1nPNS5jfSQjvmUnILihbsop\nNgt2\r\n=YmHa\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIBLpkm190/ngJYX7tC+z3alV3ohU9eESTtM6Ycw6MVhFAiEAmk0ckh/HAbJmS+qZtyWXY5C4+OTv9ycJUsSy5lL+WxI="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "jiayuanhao",
+            "email": "2435347867@qq.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "jiayuanhao",
+        "email": "2435347867@qq.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1014jyh_1.0.0_1602635773013_0.7607560961856712"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,65 @@
+{
+    "name": "0x9",
+    "version": "0.0.2",
+    "description": "0x9: WIP component for the 0x framework family. See 0x1 for the active framework.",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"This is a placeholder package for the 0x framework family.\""
+    },
+    "keywords": [
+        "0x9",
+        "0x1",
+        "framework",
+        "bun",
+        "typescript",
+        "javascript"
+    ],
+    "author": {
+        "name": "TriexDev"
+    },
+    "license": "SEE LICENSE IN LICENSE",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Triex/0x1.git"
+    },
+    "homepage": "https://github.com/Triex/0x1",
+    "bugs": {
+        "url": "https://github.com/Triex/0x1/issues"
+    },
+    "engines": {
+        "bun": ">=1.0.0"
+    },
+    "_id": "0x9@0.0.2",
+    "_nodeVersion": "23.9.0",
+    "_npmVersion": "10.9.2",
+    "dist": {
+        "integrity": "sha512-ysO8WgIXc4tkyekJAJSK/ZUNI2EEx/d1p3aV0imEaytniL813IPia9x5tkc4SIEEwnh/spf0Xcsceqf3Tyu5Pw==",
+        "shasum": "135240a92b631774b7e5246c4599a34bd060a19b",
+        "tarball": "https://registry.npmjs.org/0x9/-/0x9-0.0.2.tgz",
+        "fileCount": 4,
+        "unpackedSize": 3020,
+        "signatures": [
+            {
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
+                "sig": "MEQCIEpZud5ytun29cgyGULqCurI/hkZUauzhuMJwvqS0wCHAiBMXrFMnn4qDaxfRfWNJRzzaII5bRVWhSMXeRAD7rno2g=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "triex",
+        "email": "hi@triex.dev"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "triex",
+            "email": "hi@triex.dev"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages-npm-production",
+        "tmp": "tmp/0x9_0.0.2_1747562258140_0.8833376913378852"
+    },
+    "_hasShrinkwrap": false
+}

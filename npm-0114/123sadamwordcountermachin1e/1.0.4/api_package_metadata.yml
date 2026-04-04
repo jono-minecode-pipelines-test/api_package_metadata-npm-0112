@@ -1,0 +1,55 @@
+{
+    "name": "123sadamwordcountermachin1e",
+    "version": "1.0.4",
+    "main": "index.js",
+    "type": "module",
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "123sadamwordcountermachine": "^1.0.0",
+        "chalk": "^5.3.0",
+        "inquirer": "^9.2.18"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "123sadamwordcountermachin1e@1.0.4",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-ZvfkwvEnlqVfIoqO/coW7W/WFxHzCfp1K7M1YDZZEqVbwhkF1rvv1ceEGMEtiJ+6eGDFaXWpEitHaPveRavqdQ==",
+        "shasum": "961953a0c0ad06d01fbfd1fd351dc9885473dfa1",
+        "tarball": "https://registry.npmjs.org/123sadamwordcountermachin1e/-/123sadamwordcountermachin1e-1.0.4.tgz",
+        "fileCount": 4,
+        "unpackedSize": 13683,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIFNbVKo9mxuRJUt1fF29UmJZWbo9PP2gyOmfYd9RzpbgAiBB4p9mnn4k7ytn4I4sYrlQrsahL/1YwY+QWgrO4Px6aw=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "sadam01987",
+        "email": "jatoishikarpur@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "sadam01987",
+            "email": "jatoishikarpur@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/123sadamwordcountermachin1e_1.0.4_1713296716153_0.261079987849131"
+    },
+    "_hasShrinkwrap": false
+}

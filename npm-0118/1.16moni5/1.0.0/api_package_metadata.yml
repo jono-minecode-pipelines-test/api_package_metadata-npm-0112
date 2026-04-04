@@ -1,0 +1,45 @@
+{
+    "name": "1.16moni5",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "1.16moni5@1.0.0",
+    "_nodeVersion": "14.18.2",
+    "_npmVersion": "6.14.15",
+    "dist": {
+        "integrity": "sha512-b7JebqRvsChaFoXAPAW2+Fj49l+CUeTnmH3LJ13iIL9257nOiqFMiy5WBKyWsE5PCXRdzafijlmXm/kh1fekRg==",
+        "shasum": "0979a82c904e75f66f073592fce6333c57c5866d",
+        "tarball": "https://registry.npmjs.org/1.16moni5/-/1.16moni5-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 223,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJh5CSHCRA9TVsSAnZWagAAD2sP/2rUlTVo8glzLipLRqVX\nFYe1zkQyVu8aIpKZ/QQIL2MPRjd8TqHrYaWgs1HHeXtKRKj6MuTyG/1bkpVT\no25tD63s8Pa1wGs1rD3Bt0FAM7cZwCxhgHT4qhTjLnxtKiVlfbNLaNgxVA8s\nW1jT+grpij3CSQ6v07Ic8XYtiAFpMMHNpQWhcmbJ6HfODCIYxKo2n9dejAJO\nE/AkiGeI0IZmXhUytAEF7/N2cat7CUy1VWXVJUVeWKY6js/7Ho7yN3ix7g6M\n7aAoMMNCF1mufk385fiF9zLyJfChl5+7jilc7IDIktdH6TJKwdUbgWFqjhj2\nnEhKnS+f2B4aum4jeIZeHMOQ26MBFStirhgrXwbvBabu1M1Ca0fNbDt17nC4\nkBYXh3BKauzsuk1QX5Lzitq4bbdb1GHLIhFTbZjVTLX4QS5+W26rPVm1yPto\nHGuZy6gnHjbVoMTNt403VhnbAc2HGvxpyYVoidX47dCvzSWDssQW+MvZGJPb\nFDEpNmrzRwYYL6VKCq9l6T4b6NRNHCYkqfKhGMc5Xafjid7vaYOw3NAm/nyh\nHWEs3FG8muCZko6NTRqmDEkJPzIGm9iS9s6zXbJ0U+0sf6aDkC+m2yroIKE/\nH4bmcAsAere0lpjUETEroy69/MTyrAk8MwpvYBtBdp0nRwdqWnpctCc7Iv23\n4XKW\r\n=twMM\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBKYMaggVbtp1E6RjC3tkS6OW57+IPFBvJ0NpkV8cFUBAiBQwS2lDq19dfj294HzVw7VTNVV934V9msVwGPiRwFNJg=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "hanyubo",
+        "email": "1275087121@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hanyubo",
+            "email": "1275087121@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1.16moni5_1.0.0_1642341511464_0.07599847247893399"
+    },
+    "_hasShrinkwrap": false
+}

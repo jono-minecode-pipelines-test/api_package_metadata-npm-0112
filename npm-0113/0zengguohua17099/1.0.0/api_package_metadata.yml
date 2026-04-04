@@ -1,0 +1,88 @@
+{
+    "_args": [
+        [
+            "0zengguohua17099",
+            "e:\\\u53d1\u5e03npm\u5305\\install-self-package"
+        ]
+    ],
+    "_cnpm_publish_time": 1500303531691,
+    "_from": ".",
+    "_hasShrinkwrap": false,
+    "_id": "0zengguohua17099@1.0.0",
+    "_inCache": true,
+    "_installable": true,
+    "_location": "/zenggh_hello_world_test711520131474520",
+    "_nodeVersion": "6.11.2",
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0zengguohua17099-1.0.0.tgz_1504891090228_0.7017417037859559"
+    },
+    "_npmUser": {
+        "name": "zengguohua",
+        "email": "987776843@qq.com"
+    },
+    "_npmVersion": "3.10.10",
+    "_phantomChildren": {},
+    "_requested": {
+        "name": "zenggh_hello_world_test711520131474520",
+        "raw": "zenggh_hello_world_test711520131474520",
+        "rawSpec": "",
+        "scope": null,
+        "spec": "latest",
+        "type": "tag"
+    },
+    "_requiredBy": [
+        "#USER"
+    ],
+    "_resolved": "http://registry.npm.taobao.org/zenggh_hello_world_test711520131474520/download/zenggh_hello_world_test711520131474520-1.0.0.tgz",
+    "_shasum": "34ebb65812883b3dd1ede060f6867782980a000c",
+    "_shrinkwrap": null,
+    "_spec": "zenggh_hello_world_test711520131474520",
+    "_where": "e:\\\u53d1\u5e03npm\u5305\\install-self-package",
+    "author": {
+        "name": "guohua"
+    },
+    "bugs": {
+        "url": "https://github.com/HGItHub520/test/issues"
+    },
+    "dependencies": {},
+    "description": "zeng guo hua hello world package",
+    "devDependencies": {},
+    "directories": {},
+    "dist": {
+        "noattachment": false,
+        "shasum": "34ebb65812883b3dd1ede060f6867782980a000c",
+        "size": 2663,
+        "tarball": "https://registry.npmjs.org/0zengguohua17099/-/0zengguohua17099-1.0.0.tgz",
+        "integrity": "sha512-Czm0P6YN5OXML3HQlAS53b3DOAjMdZ64QwOGb48nJefycyFTun+/RjuJ9BUEhhFBAlU5xowQ9Ga8IAWII59XEQ==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCLwLtbZ3rzQd4G84ysCrvs2n8rsj3G44c/IwXBpYDRjwIgSWacLQkYP8O8YS7JO2LaC3w3tm3kiVVQ4nA9xXMXJgw="
+            }
+        ]
+    },
+    "homepage": "https://github.com/HGItHub520/test#readme",
+    "keywords": [
+        "hello"
+    ],
+    "license": "ISC",
+    "main": "ghhello.js",
+    "maintainers": [
+        {
+            "name": "zengguohua",
+            "email": "987776843@qq.com"
+        }
+    ],
+    "name": "0zengguohua17099",
+    "optionalDependencies": {},
+    "publish_time": 1500303531691,
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/HGItHub520/test.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "1.0.0"
+}

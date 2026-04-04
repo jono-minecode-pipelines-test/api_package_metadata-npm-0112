@@ -1,0 +1,41 @@
+{
+    "name": "1501f",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "1501f@1.0.0",
+    "_shasum": "ac9452ad47b124983d86e42540e8a76add1ee5a5",
+    "_from": ".",
+    "_npmVersion": "3.8.9",
+    "_nodeVersion": "6.2.0",
+    "_npmUser": {
+        "name": "pswdsb",
+        "email": "651473510@qq.com"
+    },
+    "dist": {
+        "shasum": "ac9452ad47b124983d86e42540e8a76add1ee5a5",
+        "tarball": "https://registry.npmjs.org/1501f/-/1501f-1.0.0.tgz",
+        "integrity": "sha512-AOORXnTUkk38RZxHHHbDAJ7ekdbGr9Z9CPNe2zTGZPe2Yl7wk8+bZPElzLdMLZw9KEedPOSCIiDVS1DHTvvN/g==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDxLqEqjusueYAN99DHQmo/a4WD5zZTXsoCPxRZUAyQ5wIhAJgnvFJmdd2zfc2xdUT0kxP8XF3aiDZOQzXRLQQmrVH+"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "pswdsb",
+            "email": "651473510@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "packages-12-west.internal.npmjs.com",
+        "tmp": "tmp/1501f-1.0.0.tgz_1480495432021_0.7499507402535528"
+    }
+}

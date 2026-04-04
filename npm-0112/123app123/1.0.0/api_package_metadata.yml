@@ -1,0 +1,68 @@
+{
+    "name": "123app123",
+    "version": "1.0.0",
+    "description": "my app",
+    "main": "build/index.js",
+    "scripts": {
+        "test": "none",
+        "start": "webpack --watch",
+        "build": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "none"
+    },
+    "keywords": [
+        "none"
+    ],
+    "author": {
+        "name": "Monir Kohi"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "react": "^16.4.0"
+    },
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-core": "^6.26.3",
+        "babel-loader": "^7.1.4",
+        "babel-plugin-transform-object-rest-spread": "^6.26.0",
+        "babel-plugin-transform-react-jsx": "^6.24.1",
+        "babel-preset-env": "^1.7.0",
+        "webpack": "^4.12.0",
+        "webpack-cli": "^3.0.4"
+    },
+    "_id": "123app123@1.0.0",
+    "_npmVersion": "6.1.0",
+    "_nodeVersion": "6.10.3",
+    "_npmUser": {
+        "name": "monirkohi2006",
+        "email": "monirkohi2006@gmail.com"
+    },
+    "dist": {
+        "integrity": "sha512-l6Qh1ymw1ZFls7CNnO6qBImziPFifnzkQoakni1wJtz0zaPc5DYxp30Etexe649f/l8zqr6EXPx5RL4EhjEUVw==",
+        "shasum": "d95cedaede250447ecb516c8e50a7b098958d9d9",
+        "tarball": "https://registry.npmjs.org/123app123/-/123app123-1.0.0.tgz",
+        "fileCount": 9,
+        "unpackedSize": 248124,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbITy/CRA9TVsSAnZWagAAQyMP/3vfvNu19tfpKQJrQtEn\nkZ3cnTB0q/WX4NaZ7MVwofr9Gb0ffMDSx2cmgm9IEK/1Ce/MLv3wT1p9fuDv\ny62WTwQam0lW42bQBDSLzuhiqpPv/lkVAjtOeFqcny1D8euqLOt/lt6zArvs\nQpqpTCtaXJ6kASCX3nQ4cD2J1QpXpnkjGDNvOecaw1pvY4dCABj8YiUxKNj8\nkoB/XWYmYgkUOQdHlpJt6L+7ukqn/XjqKNEpc6v2Qq4EyJUCPLAAWHzvQdLz\nlqVs/trbX3rO6aEkuizkTischbNuLo07bFA3Gx3ZQ27jteKHKiykI2CkJjXd\ncVx47wRigRqmvV+mlMC3xmdncyeJofEBVcJAeynXDDE+oxCcGmsFIgbvcnTI\nYOT0JL+O7BC6GWlhNtoHNXP+cVmAdSEoGp+e1zPyWnMdiYa7rV9R7BgSC68N\ntqlptXdNrKJDAkaBA0XEDA6gLJyXgwc150tlrJ/pwYxnD7LsS6vvDMF66KnX\nMPjC2FFCczvO5NEExVjtJEPIAkaPHc44OC/1vA7wiFmsRVoUWVmICbuUHwny\nE11FUCHYwEvpV49Bar/5sCAgtQ9BVAFjjkHwafLZHNhetNoPKobwF88GIV+W\ni4a2yxzo+G7Q3sEeAEOADPSSzpmxhE//kJ/jMUHgrxl5AxHK7wIrtwl+bKUx\n8VDM\r\n=iF/i\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIDEYAB7ipzksNgz+Pdee9qRefGgClCt0qD3x/+lDjdepAiEAm4j56Xz7mFrpcPG5by/DVFCRZepmea9irC5RyoHdTAw="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "monirkohi2006",
+            "email": "monirkohi2006@gmail.com"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/123app123_1.0.0_1528904895665_0.06898288589991575"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,53 @@
+{
+    "name": "12345-student-managment-system",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "12345-student-managment-system": "text.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.22"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "12345-student-managment-system@1.0.0",
+    "_nodeVersion": "20.12.2",
+    "_npmVersion": "10.5.0",
+    "dist": {
+        "integrity": "sha512-XIN2rzph3jas83JqNuPfPjE2GUJaNxezTQ12oimLz5U/WEZHCCgO83HuBx4JXuId40UOlPWrNj5ltkcN9Vq4hA==",
+        "shasum": "0ef37cb1bf76391099889faa266a49c7bb37cb23",
+        "tarball": "https://registry.npmjs.org/12345-student-managment-system/-/12345-student-managment-system-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 18068,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIFE0dxDW0FV4MmCmaJtyX2G4zcyk2AYWaeY7Mg36YgqaAiA69M2+2wmRUUYdtSZMeIxCLBlDq9B4Ytrvd9X1b2Zmsw=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "sadam01987",
+        "email": "jatoishikarpur@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "sadam01987",
+            "email": "jatoishikarpur@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/12345-student-managment-system_1.0.0_1716321060565_0.15282922488559247"
+    },
+    "_hasShrinkwrap": false
+}

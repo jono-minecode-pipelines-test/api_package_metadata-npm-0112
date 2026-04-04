@@ -1,0 +1,45 @@
+{
+    "name": "10.14rccxxx",
+    "version": "1.0.0",
+    "description": "",
+    "main": "new.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "10.14rccxxx@1.0.0",
+    "_nodeVersion": "16.17.0",
+    "_npmVersion": "8.15.0",
+    "dist": {
+        "integrity": "sha512-TqBJXDWkIeGNgLdzTl2aAb0HwwwfQdtpEg7tpMb5K+QiEZ6hPtxMd/QNikzPNz1IAy6E5Ofg8POQ2iLmLLF6qQ==",
+        "shasum": "a09146c28db563fe6b738876694fd8ded763965a",
+        "tarball": "https://registry.npmjs.org/10.14rccxxx/-/10.14rccxxx-1.0.0.tgz",
+        "fileCount": 10,
+        "unpackedSize": 4346,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDiP1WFLvunngoKADqEP/JATOqJWcS4yZZYT+Wd5Fhy+QIgNdufvKlhrlPs7mHim3f/LkDpLIpRBU9WcUSXHG/nl54="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjSULcACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr21g//esiVFKFuoIlEVAJ3wDkcYPOLH4tnWUuo2HpfyZyJUbEQfsPC\r\nGF+h0bO1T89jgWop2kdmTglKFbqJ5pU4m9Bby1y+KKVS0m+eE3aZLM2ibAV4\r\nLWvB3+6jtBQpagbJs54hrHrA1aNWODL2GYF2/ZYNwQmaOFXvbqEspnqMJCP1\r\nxU6lIClfgiy0rtMFGunSu4EX0gwo1zlgGrbkuEkvrToDwFX+i6eh5e03yzxi\r\nga4+nNbK8iurfVhitdZaE7VhEDRoh/vWLR8T/DtZXLWltMghnksqXtbidbi3\r\nh+W5O8fWOW/X1+kI5Au2OvPHna9cMCggK4xPG/G6b+jezFkTr2RWYL/0tIZ9\r\nabsbsggP7wqQkxpN3sSLdCsmF+RdsiFuYSSF7rCfXzNQ7Oxx4dRfahabybmG\r\nLC+mIrAf2R8k2cBiGjJTO9C9hNIN8coB12pmwA+FCS4xmk+1CZz6yfRhqTxa\r\nnhPWSIECuUiK9m2TAgdvqhaOnRyteDV3WME2Nn4HD8QdP/leifRh+xDM87tu\r\n6NCIBoiNUn52KyK7DtkOd2SZO0U/InWQVhIFTDQUZ7BjDlVOFxQJD43WKTVA\r\n7s9ZBvxaMNuGdKOk9AqE2rSlGYKBOuXOx2WA2XrypNfErS6y1Vy6B6ATmccW\r\neiQgcrjRqx1mZCl+IhqmB2P2AiwkfwGEGN0=\r\n=lHW7\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "chenxin0701..",
+        "email": "1597483803@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "chenxin0701..",
+            "email": "1597483803@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/10.14rccxxx_1.0.0_1665745628230_0.1100136372772389"
+    },
+    "_hasShrinkwrap": false
+}
