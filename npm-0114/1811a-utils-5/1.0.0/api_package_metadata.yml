@@ -1,0 +1,45 @@
+{
+    "name": "1811a-utils-5",
+    "version": "1.0.0",
+    "description": "```javascript",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "1811a-utils-5@1.0.0",
+    "_nodeVersion": "14.15.1",
+    "_npmVersion": "6.14.8",
+    "dist": {
+        "integrity": "sha512-PHU92Jiz7drxeqL+0hKj40sEdOKXxS1OKLqViaH8U7cGnUwpW6Z0yChJtJGfghF/fdRw4BWILF+OlAwmktwBOw==",
+        "shasum": "bc26e7807845f2176799a181ac8b5867ea545c01",
+        "tarball": "https://registry.npmjs.org/1811a-utils-5/-/1811a-utils-5-1.0.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 4149,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJf/q5DCRA9TVsSAnZWagAAnI8QAJ35RKX8ZsyIYkPMuQwq\nDNHt+4xph2oUgxgG0Sqs0Rw6127lLzemhJXrW6VDr8tSSCT8JJ9PquOh2hWK\nfpa9IDr75VAYpoDfj6A0IX0zvPscwLClHdUKVwOfCAP0+Rd+ZMiSIV3FSADN\nnYZ8dvrm5sngc8FWZdHNetLnC5JSWZek8VqFlHoUfA2F3SiQS+QjE3fezDnU\n909P63/pc9Fbi0qDLKlWasN7JUhrUwbSkWrm1mYGAcN0SL+uU6NXTGBpPEqg\npHribfohPIN3J9DIANE3wrgPwPPjZQwmWazNKydpWs8ixd9oDIH92CUuP00G\nlNVBM1uE23wCOwBqlRxrZmRvH6ZCw5nNewxRB0dEJEpEH9E5WSdRsRnSUy2X\nbQgrHXJJXNEKjrOdUN80mjPMMczyoSPQ7nntfLSiWwspVn0pTRRNEEU2iuoA\nJEXRnE2fUGnn7yLGsanfwFr7VjSoTvJTiE+yi7mBj+LxJMWYRsq8jvwZgAUk\nW7bVwU0j4BXZGAqckAq3bZjoN6qvTtnPYKAaREvXBDbT1DQQU0IN3ZFPbYyZ\n9ULXu9d9/sY32PRfsUYtDomeYIrTaGUgkfz6dEYxODSVIyJ7w0WUGaf9v9Wh\n52htLLFM5dDjotTIgglmEpF/DKi3Mz06rXwXEYDDQVMg64YgKEUuCJwA7OzF\nXEBM\r\n=n6Bg\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIHnyAsDxB8B+iKrAh2nq46mGRwjVbJeMB6Fz1LObZilrAiBhQReNSo9yC6irUBf3Ljd3E0r1Dk+S6Jjvuu8GM1oIqg=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "qwe896673315",
+        "email": "m15284308939@163.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "qwe896673315",
+            "email": "m15284308939@163.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1811a-utils-5_1.0.0_1610526275059_0.7855602304152967"
+    },
+    "_hasShrinkwrap": false
+}

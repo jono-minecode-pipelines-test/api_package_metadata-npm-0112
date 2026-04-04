@@ -1,0 +1,45 @@
+{
+    "name": "1911a-class",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "1911a-class@1.0.0",
+    "_nodeVersion": "16.13.1",
+    "_npmVersion": "8.1.2",
+    "dist": {
+        "integrity": "sha512-R4NoGP9Or2D/aY7ITCgmjs8qWlOJEpa7dB0uC8NBoxddaZ5wDKuLDnAlptTQ4XnKKm46WbTWt/PlHO3Trr3zkQ==",
+        "shasum": "66d8bfdc035eeed095a5dec3df6be16181023192",
+        "tarball": "https://registry.npmjs.org/1911a-class/-/1911a-class-1.0.0.tgz",
+        "fileCount": 10,
+        "unpackedSize": 1679,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJh1Vg2CRA9TVsSAnZWagAANCUP/A6cXv9FUmrS14CsoqwF\nfQv7i5UdoJ0SN2L6D5oFfLc++qxAToqarV/J/aVrHQpyjI8m2fi0kDDi+J8W\ne/HYOOxe3IyTjOg5prTmt5KmyCLEYl5ndXVTZI6tF0Wiq1cOFtVRUWc+vqYa\ndK5rvZsYRNkGKnlFBc2Xgcf+xiukWBI4QkAvCnmt1nfkZAhuj2XZUHw7ksvU\n9zQFvCSVcjxTy6lDWLn0U6nZoO7Ilu92Uu4P03RyFla8zG83IvcyrpUe7fFM\n7LOxccNP52Slf5TMk/S7nC2x9Xd6wn2BY64JJ4Yj4AQcDMAgIIFyfxRV8SQE\nDQLjAJdHG+Ccn03X3t13ZVmvhEAqxmbVXapaNy66MIro538u2Ys2cHW/Radu\nFHZIiK5f2ZG/kyqKT/Arw7Fh0s4Z303pkmCdQ2TMWWUoH/njqkc939BNzBRq\nCqBWL9igni3q+k+pJv5bruAneo7y6vGpSaFg8iIaF/ZZIC3e+5TgrmQW/bXL\nE1Dkfmn40nfApvYGnAqKa7gnMHsshSfp2ZxAMTzF8gz2uESWbmK7VD7L5EYS\n/QIQ2MgbKkiJBF6b2MLptpa5eYEDLP9gNUHYIc268Z/0DJ0JPC3FBJXTdB7P\nMqS/pSCiAdCNeCho6z4DJu7xnBU9tdmbQ+MMiZ3V3pYi/2wrxFPa4dlpS6S3\npjcn\r\n=JGZD\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBCiLdGB8XpQAr5WN3N/+1Fx2T1emeohL2xjWMV0vEs/AiBYkXEFcmHOmN9D/KmKeiSemhaKFybQHNkZqWcjRuG+QA=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "zhanglongchuan1911b",
+        "email": "2305298520@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "zhanglongchuan1911b",
+            "email": "2305298520@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1911a-class_1.0.0_1641371701962_0.897403117845355"
+    },
+    "_hasShrinkwrap": false
+}

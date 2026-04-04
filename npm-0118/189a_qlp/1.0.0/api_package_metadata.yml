@@ -1,0 +1,47 @@
+{
+    "name": "189a_qlp",
+    "version": "1.0.0",
+    "description": "189a",
+    "main": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "189a"
+    ],
+    "author": "",
+    "license": "ISC",
+    "_id": "189a_qlp@1.0.0",
+    "_nodeVersion": "19.8.1",
+    "_npmVersion": "9.5.1",
+    "dist": {
+        "integrity": "sha512-szAwFLiUNV6LYVYrhySIdD4O+woIrCt5pWKJowMM04+yowI9j8a6C0Sqz/evgaYEyZkn9FLu/rQDVcgZFzasbA==",
+        "shasum": "6b9d720cd061347cd6ba03b34769102b6f320e1b",
+        "tarball": "https://registry.npmjs.org/189a_qlp/-/189a_qlp-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 1969,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDIPiAhkF7w0FS9U553dOZAJUwlDXqqLCjMbNqNxV+Z4wIhAPX6mt1dd4LszbK/COt1vJH9wagn7Jy4IckGPvt7j0u+"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJkMAkKACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmrs3Q/8D6HcV5tga2qFiEHh7I6KZyB9ndq0XJ7qk9yVR+uPPVmG7eFA\r\n2MjWrjxNC+8CUcjjdfYHlooRqbJ693WNOEVO/fJURGz+ZlHfNSy38LoHPoOR\r\nB+KHULIwQ/5ofwMtNBkIY2tIOh66ffQOL8aLVcHrQzgTsIA/4VMDFnQR7YLm\r\ncWf1W0N6aqwGO/xX6DYJHbKt+cK9Tnr8QuvSpMNhTuG7TkY9LnjDSRNM3eG0\r\niWk+7HxOy4ZiuMtABH7pdqMRu0czBpzdojlj9sRNjyaJU+UxyVe1PQt1Qa/h\r\nUriBgZ7Cnq7y1upYEvS8aWRB4GZk2RH+aIG5IHxEKdOcursH8ZrF/g3XQMvk\r\neL9IGUi8hXs5wqFvbymKt+BVANQFNHQ2n1ZJlXC3S78wG6UcgGUWUPWsGxOS\r\nn/iPMsIQiC9ikA9Ik/qJsEs+e92psDku/BZEK4fgADzgd4IcwG2NDS4Kffg+\r\nPned7wLEstfANQOXqTJqnDGfeGYPML1Bhp424YNCfvPi3aYsqQ78RyHIW0Px\r\ntf0ZsK5OS1+5/DInNYbd/c3v7IVJ6COKaeNY1JDAMsECXpsmbmLBS2c6qbt7\r\nir3/Cs+wDH416V+Jon4vLcmYvfnUIhcwgbbgK0O+XZYtAf+YN3YZp0TSzLmb\r\n5bniNsfgQrpumVqhmLIBHMdHAo5bvAkcvis=\r\n=m5mT\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "gibdeconfko",
+        "email": "rapetgongpi1974@outlook.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "gibdeconfko",
+            "email": "rapetgongpi1974@outlook.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/189a_qlp_1.0.0_1680869642653_0.9657328182472451"
+    },
+    "_hasShrinkwrap": false
+}
