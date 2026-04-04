@@ -1,0 +1,48 @@
+{
+    "name": "1609kaoshiyz1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "bin": {
+        "itemcreated": "bin/index.js",
+        "why": "bin/app.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "1609kaoshiyz1@1.0.0",
+    "_npmVersion": "6.2.0",
+    "_nodeVersion": "10.8.0",
+    "_npmUser": {
+        "name": "why1118",
+        "email": "2830174881@qq.com"
+    },
+    "dist": {
+        "integrity": "sha512-4TqSLyP9Opqfb4s9mtGLIx5rJb1XduG4t7YreuAXWFI5iLMO9EtG0NLC3H3qwczxpMXnTpD7H5JoCOvzoXN1XQ==",
+        "shasum": "b38285011a482b29e0175904bf4573610048e136",
+        "tarball": "https://registry.npmjs.org/1609kaoshiyz1/-/1609kaoshiyz1-1.0.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 368,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb35caCRA9TVsSAnZWagAAqyIP/RyWsjXEuGeNy6tkxq3U\ngkLyrZ5GJggUsxIEwQRjnki4XtSjOe9+kQFhCsZvu5Ib+AwlNvAunBk+a2Dk\nuKmeih0EsToXPcL7YQCXtL+dSRz1Q5i4U88nLLqEif2IHJP+XTwrThSfLcuB\nJ8jaswNHscRORA5e6MzJQK3ZolvAbDJD23ABPjBbsO3ghAiLH0pCEm5c7kmm\nv90Ax64QqdIYAngzHKbjG0dDDTPyNkHLHJPxSoEnls9TAoGIpyEEVCwOYJ0M\nlLMFp9JdOv7P1MCVA0Nz+zRIyGkgCqznivAX7XM+ooN1yOHT4D2A0yMUCmei\nT+TsyMbbCDmyJNqQuN9Y1hvn5MCcIdIH8LMh7r39i/pSHMp2W+54sb+ZNE0q\nrMziWPCwOkx85Wl1lXYXn0VqtsDBsOA8/8fxz9D7jtTmcO71S6nJIRjYWOjZ\nU+WAlf+UxnP8rJcP3iyNjuQuQyXOe2j/mDy7O2FFCQxhfJVHlPTbgghUcLiU\nKWX5n/PBViWqZt42C1qVDJuEbzAyFYs7G9/vBgw25VEHk9lfGKbnyLh/zYIT\nwwIHO+iLU4Vu5ltw7T+RazCD190hhk01LumNt2fX/OSxYcg7xweVQqJk3jT/\nNVOOBZ0Ng6tDcVO+sxAQpMF5cIo9d5iTE5ghr4CSAm3fbKiLa2dEmMl4tGr/\nx77Z\r\n=3C6l\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIFv2VNFnhYsF20RhDEPjYU8Xa/uBhBPCZUBPqrKobrQxAiB130NNYbC8IQrVTmfb05ibLyBMV0V4OqRS5tqDAnbNJQ=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "why1118",
+            "email": "2830174881@qq.com"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1609kaoshiyz1_1.0.0_1541379866339_0.7593518493461033"
+    },
+    "_hasShrinkwrap": false
+}
