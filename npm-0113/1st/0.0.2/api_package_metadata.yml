@@ -1,0 +1,64 @@
+{
+    "name": "1st",
+    "version": "0.0.2",
+    "description": "firstProject",
+    "main": "index.js",
+    "bin": {
+        "brain-games": "dist/bin/brain-games.js"
+    },
+    "dependencies": {
+        "brain-games": "^1.1.2"
+    },
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-core": "^6.26.0",
+        "babel-preset-env": "^1.6.0",
+        "babel-preset-stage-0": "^6.24.1"
+    },
+    "scripts": {
+        "babel-node": "babel-node",
+        "build": "NODE_ENV=production babel src --out-dir dist --source-maps inline",
+        "prepublish": "npm run build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Nistler/project-lvl1-s132.git"
+    },
+    "author": {
+        "name": "eugene"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Nistler/project-lvl1-s132/issues"
+    },
+    "homepage": "https://github.com/Nistler/project-lvl1-s132#readme",
+    "gitHead": "69830c0ae724fff79ea96af1f2c5deb5e7139aab",
+    "_id": "1st@0.0.2",
+    "_npmVersion": "5.4.2",
+    "_nodeVersion": "6.11.4",
+    "_npmUser": {
+        "name": "nistler",
+        "email": "evgensin@gmail.com"
+    },
+    "dist": {
+        "integrity": "sha512-frMe8zBJcUl9/VH5tj3SyIysE9nydOE/c2EBwzNbKtSIbbVa8ayTO+tvNLJq6CNx3JMxmnXqA9p73ZQyAhbsMA==",
+        "shasum": "d92aa2c3f507ca98c3bdfc13d39f713ab74f79b5",
+        "tarball": "https://registry.npmjs.org/1st/-/1st-0.0.2.tgz",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIHqgW4st92zQ49/t8/I1bwc5iyIC+HirGPMN8l0++EJNAiBTltwuf0o6TwzW0KhvCFW0INN2ptEyWasTrTchCh76+A=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "nistler",
+            "email": "evgensin@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1st-0.0.2.tgz_1507641575886_0.5949110111687332"
+    }
+}

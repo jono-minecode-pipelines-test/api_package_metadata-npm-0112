@@ -1,0 +1,46 @@
+{
+    "name": "1xbet-ne-prikhodit-dengi-na-1xbet-zyulb2453",
+    "version": "1.0.0",
+    "description": "1xbet-ne-prikhodit-dengi-na-1xbet-zyulb2453",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "abngn"
+    },
+    "license": "ISC",
+    "_id": "1xbet-ne-prikhodit-dengi-na-1xbet-zyulb2453@1.0.0",
+    "_nodeVersion": "18.13.0",
+    "_npmVersion": "8.19.3",
+    "dist": {
+        "integrity": "sha512-SOFsmd4jbnRYd+vRE+/LgWZHIz/gkqSj34pX593jswV6ITc2Tr9Y1XZQzRtEMQJktzYDhrSoM1T/+3/wOGgZ0w==",
+        "shasum": "970d25d382ec6a10324ba68fb0b5490503b3aa51",
+        "tarball": "https://registry.npmjs.org/1xbet-ne-prikhodit-dengi-na-1xbet-zyulb2453/-/1xbet-ne-prikhodit-dengi-na-1xbet-zyulb2453-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 8062,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDx8uT/LxVPzZKAP/YSzWuYACNRRAk3jNlvzClRqknaiAIhAIqOTUJAGqDga+H2aqN5783DA7uVqDcywrPAatn5Xly1"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJkQxKvACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrIJBAAgVJDKtS13BzZN4gCGWe91SA7iaiZz6PEVHevgr3m7Zunr0rT\r\nIPzWnUgpCqwn6M5HFTLTO0zNdIpvc96zcMVzDGPlaE0/VTWo3U3V91sFNFCm\r\nwd5bzZviXI0CO+Q5EA/89QTHLPXUzXeO4XIrzHpmavjttemvTZa5dxMqCCGd\r\nsfUqUpv43FqBvkyLMeyQYBPsWqEQvkccGSOJVjpQqmh3AEgpkR1d4V4JXEeD\r\nUBs+fU2pIZ8/+wtWFAKCvgzM4guucarBF6ot1KtNUAmKH7iyC0D4j+/fLyOE\r\nHixH+QFvEApRMGag+fXPIj5BScAxDBUeZWLQmbjJ0TeAhwhBuZsknl+pHDXB\r\nLxnFR5vuqBFDtma6xPb6eQL9IYR4hfeR/P1KDpwPV0HPgAdQO8E8BSevOelM\r\nfrDKyM4bJ876/wX18tFqp/3rVPsF5bHyX1+nAeCJXSfHkj9gh560MVLNkGDa\r\nGlCJYXcyMk9qcuXe8MEnGn2wNAAvLtIZnPBR09DA//Hn/yS5vuOkl/A+zdzI\r\nmtgWukJneJI44q0KxLkPCyFXHOw/neQAbtaFPL3ISk4k5LEoobmRIdbUKbPw\r\nLLPN3U0JE/iz0egbeOdnaqXxS1XXRKKKy3zbBaIvkz708/65JT6THGMs8bs7\r\naI7O7E4ZCcXwmmzoP9ZO9PQIPeIFjduNrOI=\r\n=dWe+\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "agavfrnbbscz",
+        "email": "agavfrnbbscz@pay-exchange.tech"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "agavfrnbbscz",
+            "email": "agavfrnbbscz@pay-exchange.tech"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1xbet-ne-prikhodit-dengi-na-1xbet-zyulb2453_1.0.0_1682117295006_0.516993132267314"
+    },
+    "_hasShrinkwrap": false
+}

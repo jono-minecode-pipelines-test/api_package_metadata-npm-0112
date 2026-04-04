@@ -1,0 +1,45 @@
+{
+    "name": "1pki9e",
+    "version": "2.1.8",
+    "description": "1pki9e",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "thomasnelson47ec"
+    },
+    "license": "ISC",
+    "_id": "1pki9e@2.1.8",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.5.2",
+    "dist": {
+        "integrity": "sha512-NVJGE99OLPH/6PNImHTmsPEIc3iMNdHoTczH3Dq4AspQGXVvbadZTJdFVXRr86gCQEI+i0Pwzv4+Kw0wPifU3g==",
+        "shasum": "8556b1bc2051abe78b7deb3dba8e96f0b6572923",
+        "tarball": "https://registry.npmjs.org/1pki9e/-/1pki9e-2.1.8.tgz",
+        "fileCount": 2,
+        "unpackedSize": 837,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIA0DNCUwDUhFiFfOglKRm3XncddQ5BUK5aA8TcrdQZT2AiEAx0X+73xPvumG8DixDB0+a+a43C4ExwXuOWn0VpUiOF4="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "thomasnelson47ec",
+        "email": "thomasnelson47ec@cultureleb.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "thomasnelson47ec",
+            "email": "thomasnelson47ec@cultureleb.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1pki9e_2.1.8_1683482304710_0.4874437382391197"
+    },
+    "_hasShrinkwrap": false
+}

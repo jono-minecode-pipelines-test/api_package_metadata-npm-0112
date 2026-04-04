@@ -1,0 +1,62 @@
+{
+    "name": "1st",
+    "version": "0.0.1",
+    "description": "firstProject",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-core": "^6.26.0",
+        "babel-preset-env": "^1.6.0",
+        "babel-preset-stage-0": "^6.24.1"
+    },
+    "scripts": {
+        "babel-node": "babel-node",
+        "build": "NODE_ENV=production babel src --out-dir dist --source-maps inline",
+        "prepublish": "npm run build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Nistler/project-lvl1-s132.git"
+    },
+    "author": {
+        "name": "eugene"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Nistler/project-lvl1-s132/issues"
+    },
+    "homepage": "https://github.com/Nistler/project-lvl1-s132#readme",
+    "bin": {
+        "brain-games": "dist/bin/brain-games.js"
+    },
+    "gitHead": "b4b466ebc0d97401e449a7d2cc20eb508e138fee",
+    "_id": "1st@0.0.1",
+    "_npmVersion": "5.4.2",
+    "_nodeVersion": "6.11.4",
+    "_npmUser": {
+        "name": "nistler",
+        "email": "evgensin@gmail.com"
+    },
+    "dist": {
+        "integrity": "sha512-Yhl4Xl6ZkSxFqMYNQ/YCaLT5Txxrji0Xl6w+RJRcF++AxUxUn4pnS8ssAtQlN5PuskQLiwA10guiCBcqmwhe3w==",
+        "shasum": "76851fef253a06e5caf7d0388b0f463b470e7d80",
+        "tarball": "https://registry.npmjs.org/1st/-/1st-0.0.1.tgz",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDzcSou2yCvcrD7h7gZ44QzVd7pUXvdDMjGzevO7Uw7rwIgejwsBC7vcPUkMeEu27xc8Gp35FcTpe969N7a8/O9Wxw="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "nistler",
+            "email": "evgensin@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1st-0.0.1.tgz_1507632718439_0.5309946360066533"
+    }
+}

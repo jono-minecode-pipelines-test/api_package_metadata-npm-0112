@@ -1,0 +1,70 @@
+{
+    "name": "1st",
+    "version": "0.1.4",
+    "description": "firstProject",
+    "main": "index.js",
+    "bin": {
+        "brain-games": "dist/bin/brain-games.js",
+        "brain-even": "dist/bin/brain-even.js"
+    },
+    "dependencies": {
+        "babel-eslint": "^8.0.1",
+        "readline-sync": "^1.4.7"
+    },
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-core": "^6.26.0",
+        "babel-preset-env": "^1.6.0",
+        "babel-preset-stage-0": "^6.24.1",
+        "eslint": "^4.8.0",
+        "eslint-config-airbnb-base": "^12.0.2",
+        "eslint-plugin-import": "^2.7.0"
+    },
+    "scripts": {
+        "babel-node": "babel-node",
+        "build": "NODE_ENV=production babel src --out-dir dist --source-maps inline",
+        "prepublish": "npm run build",
+        "eslint": "eslint src"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Nistler/project-lvl1-s132.git"
+    },
+    "author": {
+        "name": "eugene"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Nistler/project-lvl1-s132/issues"
+    },
+    "homepage": "https://github.com/Nistler/project-lvl1-s132#readme",
+    "gitHead": "b0f6ae1851147791c92ac2eebed9d4eb2e92a5c5",
+    "_id": "1st@0.1.4",
+    "_npmVersion": "5.4.2",
+    "_nodeVersion": "4.8.4",
+    "_npmUser": {
+        "name": "nistler",
+        "email": "evgensin@gmail.com"
+    },
+    "dist": {
+        "integrity": "sha512-Jf3rWE2mbsxTQYQ7gsGDJTknXn/u9HYeeMPZTgwzfHuJskAT3TTvVkhk1bgymIvQ2Er1FHa2s8WtlBd4+uPObg==",
+        "shasum": "5966b5e23d12f59131a0ffe6a6740d6b258bda6a",
+        "tarball": "https://registry.npmjs.org/1st/-/1st-0.1.4.tgz",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQC5nUiA93BZZWegIO9dmYNeHSSHc5Oz5zSZCn2qgnTODgIhANJWR+mD9+MBgTliI0yd1IuIte1QeYxhh/fym4he6e7N"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "nistler",
+            "email": "evgensin@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1st-0.1.4.tgz_1507747426689_0.22913808492012322"
+    }
+}
