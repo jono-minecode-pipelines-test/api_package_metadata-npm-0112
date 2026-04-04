@@ -1,0 +1,56 @@
+{
+    "name": "18-14number-guessing-game",
+    "version": "1.0.0",
+    "description": "number-guessing Game by using Node Js and TypeScript",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "18-14number-guessing-game": "main.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "Mahar Ahmad Sarfraz"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7",
+        "@types/node": "^20.11.30"
+    },
+    "dependencies": {
+        "inquirer": "^9.2.16"
+    },
+    "_id": "18-14number-guessing-game@1.0.0",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-s8lBFux1jZ65VLAr8EfYOk+TkGIrLIEtc3XjXMEp2s/MxAXCfeiN/6aLlrr5C+JKbQFg2hmxJSDQLsjbsztuLg==",
+        "shasum": "9fd2606fc7ff2d57a9ab82932bf6c6bd21a5c4c9",
+        "tarball": "https://registry.npmjs.org/18-14number-guessing-game/-/18-14number-guessing-game-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 13685,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIGHwY2P9zOULwdakY8fVmHsgB3uGCqoLEQhryoZOfOI+AiEAsgmdbs7d81A2tOqhP4UzNQPkmAAWeyw028XGSXyhxwk="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "ahmadsarfraz",
+        "email": "ahmadsarfrazfreelancer@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "ahmadsarfraz",
+            "email": "ahmadsarfrazfreelancer@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/18-14number-guessing-game_1.0.0_1711329184100_0.5505801221396691"
+    },
+    "_hasShrinkwrap": false
+}

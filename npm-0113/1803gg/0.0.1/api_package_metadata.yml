@@ -1,0 +1,49 @@
+{
+    "name": "1803gg",
+    "version": "0.0.1",
+    "description": "\"\u4f60\u7684\u5c0f\u4ed9\u5973\"",
+    "main": "hh.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "\"xioaxiannv\""
+    ],
+    "author": {
+        "name": "\"xiaoxiannv\""
+    },
+    "license": "ISC",
+    "_id": "1803gg@0.0.1",
+    "_npmVersion": "6.2.0",
+    "_nodeVersion": "10.9.0",
+    "_npmUser": {
+        "name": "liyingguo",
+        "email": "1159591680@qq.com"
+    },
+    "dist": {
+        "integrity": "sha512-5SvceJLjYze9/QiPbn1ks7zd/7pH6273643Adjv36E7p3/K5HxbpfgFIDio0np5fYqglQbIev+RkVHI9oNmSiQ==",
+        "shasum": "47b5211752998cef19f0b4c08a15ab3e5556356e",
+        "tarball": "https://registry.npmjs.org/1803gg/-/1803gg-0.0.1.tgz",
+        "fileCount": 2,
+        "unpackedSize": 691,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbhlifCRA9TVsSAnZWagAAgA8P/igFP9cx2pWxWxxmorSV\n8GWCnYmvfYbiNQLclHzLQi8oZDNbRyEEDJ9beyZk3TTk0/x7CQTkjutBJdsl\nU6uO0VGwcTB7s1HsPU8CYld3uzt40bOG66TTyJZJF/+97NNb6Plx7A3dDljF\np17YvwIFYvr/lDnfw1j68vVsfock3FdtzakzuK/+HksskKiqtdWAOBCGyepm\n7x3ge0IkOt8Sv1byqghi3OuXRfSdDCWjuIR5V11FG7LOp/D2r989AaTlK/9J\nWigtxc3VtwdsInCrwa4Hxnopa8iz9fge+YyjTrzZieqhnR23KL8gXB2WgzTo\nakvbs/lC+fAnUYd8Do248aV8gkbvutIzZUy8LLEMX3hGa6YrnUf9KJJFP7kF\ntcdN7w3BJJ1Fu206xrFdrV/ikEkOaIunIaxxCaobkmoJtlrJndPDeClRaX/m\nKTTQd6LSCZWj3vIGz+N8eDeghBGgbL4NlfZhS2WJ825E+ItHmuGF8uJMxe7V\ny1mfMYT55sPus2ae6uCdA4eyA9RDGSlnYc4rCqcyV9FsgC1SDdHux+f6D57T\nq8HM85+Xco37jNkyoEC5kmDDzvj91G4uXv39dFHuz1dSJ4Nniu3llYxBRvk9\n1bknpoAXoINNmbwFqDJGEKajhQub5+Rwdqqam/OSFJrhE6yVJQviH0BUz/hp\nWXqU\r\n=BdZb\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCICICmtsQ9nkyj4ceLTxHM7l5f8eBJrMP5Ui6AluuHPFbAiEA4RMftHuB2eCDQ5VEBFRxbeX0Bvi3GI1eOdMf2S+K3XY="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "liyingguo",
+            "email": "1159591680@qq.com"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1803gg_0.0.1_1535531167139_0.18669936248009966"
+    },
+    "_hasShrinkwrap": false
+}

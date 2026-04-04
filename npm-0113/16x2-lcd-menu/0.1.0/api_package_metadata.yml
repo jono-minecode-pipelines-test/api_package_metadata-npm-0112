@@ -1,0 +1,62 @@
+{
+    "name": "16x2-lcd-menu",
+    "version": "0.1.0",
+    "description": "Library to quickly set up config menus on a 16x2 lcd",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aphotix/16x2-lcd-menu.git"
+    },
+    "keywords": [
+        "Adafruit",
+        "16x2",
+        "Raspberry",
+        "Pi"
+    ],
+    "author": {
+        "name": "David Tompkins",
+        "email": "david@zde.io"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/aphotix/16x2-lcd-menu/issues"
+    },
+    "homepage": "https://github.com/aphotix/16x2-lcd-menu#readme",
+    "dependencies": {
+        "adafruit-i2c-lcd": "^1.0.2"
+    },
+    "gitHead": "93698229040f70d552d21dabd78929e39961f976",
+    "_id": "16x2-lcd-menu@0.1.0",
+    "_npmVersion": "6.4.1",
+    "_nodeVersion": "10.15.0",
+    "_npmUser": {
+        "name": "aphotix",
+        "email": "aphotix@gmail.com"
+    },
+    "dist": {
+        "integrity": "sha512-uqNiRDVz14GawE9+kvKScsUkGxfoVWXi/cgLYV/xoNnLRsFbgrXV0lZL1PUztBtrbFkF8AHxxTZ2NVThmoQedA==",
+        "shasum": "41008c2ed39eca68f0706e65801cdb7d54b5bcb6",
+        "tarball": "https://registry.npmjs.org/16x2-lcd-menu/-/16x2-lcd-menu-0.1.0.tgz",
+        "fileCount": 6,
+        "unpackedSize": 14388,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcK8TVCRA9TVsSAnZWagAAyVQP/R705oBPjSpVFCyeBZhe\nddh/ANRNkK0SuvQ7JYPmgxr6Q8EkrA0zDIhoFRxh3A14GVF4i7g5YEye0TSO\nBUV/GEXNnj2Vk5+zN3t6OJHDxQ0MdmiRpXdBkICF80jpvC/1XS8emYviSAr4\nq4IDSnHSnaSyDws8qM64g4lk7zMWpAlOihA3DChYlA39f4DDvBWm96xQAPov\nxv0GxxmSocX+RCApIsqvGhg1D37+1Vp3TBWY4OyMv4MIoXzBrvzsDB4tJHtv\n2REeFSJ1y8lCVI0Yh9ue2uFA/pfEEp7iPSqLLCKPljuvIiBs3EHlmmV7TEeL\nV90uhQOaMUCfvECspHuGCyVnVVcTPgqL9+LA104PRi537K3Kot4Hb4plxEG/\nQHybzpS4NA7ZNhdRmGDfDODOQN4Hk7UL0O9hHsIOyC2w9Tg7CcLzzX2s54Og\nSpShCS2WaAqAbqP0wh7sz2z5lC1tfEivODPonpGPMG0cHvWDRP2vdUeRaXmm\n0tQ14FRruSil4z/0AgXvPG3XAARaYMmCNVibKZH9iAdN8XplajRtxbdhpyvO\nGRVSSclmCXk6wDaBgbyOgSOlXX0ChlviBQfqbepBsJ8JHv98jthUNkrYmv3H\nJQ7XkntM7J/uKdj2U5y0J670psqJPAbf0dzKu46rtc0Ewt3yazhFIyI/uTne\nHmXE\r\n=2zBc\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCnsIlDSwLOeQgfpF8tQbqf4oO3zk+LJsGusk3Tp365sAIhALfaH/So7hBBabX5D0KU59edyGrpLWpGhOJLunp9TcoR"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "aphotix",
+            "email": "aphotix@gmail.com"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/16x2-lcd-menu_0.1.0_1546372308435_0.34668793872685466"
+    },
+    "_hasShrinkwrap": false
+}

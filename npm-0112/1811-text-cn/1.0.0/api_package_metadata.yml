@@ -1,0 +1,45 @@
+{
+    "name": "1811-text-cn",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "1811-text-cn@1.0.0",
+    "_nodeVersion": "14.15.1",
+    "_npmVersion": "6.14.8",
+    "dist": {
+        "integrity": "sha512-x0XKUv+tj6NbkustS3vbO9A7oSntI/Uxl/9U9nCh6mwlHSXAWnPRFqXBHMFfYYH5vzVsDqme7ykXnAF3EX6Qog==",
+        "shasum": "7db2ad5fc87c25033869f22bd2a1b0c5c651bfa4",
+        "tarball": "https://registry.npmjs.org/1811-text-cn/-/1811-text-cn-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 314,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJf/aWhCRA9TVsSAnZWagAAvxUP/RQQJPeB/JFIRVFDWC/L\ntGYit57JFiG1KVQG4zlOsXpGRixxddneKIVxL9xrkiWeDINnLD+hYlUxDUc2\nO6znNVWGwbWCkPifTvH/ZenIFQ3yta1k5m6DLyjxrP2fGskanGe7r5mPPh6h\nljmz0d0wcVh6dD8/FQnQOWzdCBNlXvrHYZVgBmwvbnQ3JDtOzYqq40omkn9q\nhl/YDBoSzztG2jiav3HqzGOHWUjmT5S+9X9IOhF7nRX9phMV6QBcL2Tv6GN/\niLiSmCdB4lIKru5XGNOoEdC190RlvBcD3KqNdmomgAZSySRSo1+zeDkzWsoW\nKuwCq1FRSyQi9rJ2j5tV9MAhuzhAGH/J2M6+JeBQBc9/lBkSEJ0lamCTgMwM\ngKjbJ44ehSX9GAfbFI0VMqk0XGOJEqoLKKu3Lo5jrGUCAUe+tXExvZLbgwQ3\nC7jVr895TQDpM9P5gzNA9yGZ8rBNVjPPlqy8tJAoda2EXmOc+q75km4jhwL1\nyGG8Nsr0iqLSgCOOJqO7/5ZSy6orQnUFtfVFT468HLn8f5eA/tSiH9/OoBqM\nD6jOxcSGRr6Y8xwaz5BfBUK208VhNzsnapbXXMjkjwwKg5R0sq/MJkM+7Wb4\nI5Ll85bWwu0vw/8fw3TCrVWeyjPe6Qkd8TA1qMLg/8RPm99Wuyexl6sT2ZRX\nsyin\r\n=Xkus\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIFaupgv0hHyGNXLXzIFacAPgJpVbrRjrLgkpkD/g4CbkAiBsuUSIopNpBpgTfHGodahxXMpo8JlH7/8vvDg0p39v6g=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "chennuo",
+        "email": "2786831953@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "chennuo",
+            "email": "2786831953@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1811-text-cn_1.0.0_1610458529240_0.7680448463998566"
+    },
+    "_hasShrinkwrap": false
+}
