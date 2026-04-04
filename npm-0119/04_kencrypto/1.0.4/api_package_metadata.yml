@@ -1,0 +1,65 @@
+{
+    "name": "04_kencrypto",
+    "version": "1.0.4",
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@gitlab.com/GabrielBuenodev/04_kencrypto.git"
+    },
+    "author": {
+        "name": "Gabriel Bueno",
+        "email": "gabrielcb84@hotmail.com"
+    },
+    "license": "MIT",
+    "scripts": {
+        "dev": "ts-node src/index.ts",
+        "build": "tsc"
+    },
+    "dependencies": {
+        "axios": "^0.25.0"
+    },
+    "devDependencies": {
+        "ts-node": "^10.4.0",
+        "typescript": "^4.5.5"
+    },
+    "gitHead": "0a968ef6b89bb732baa155b16b5e4fee2595eee0",
+    "description": "Biblioteca em TypeScript que lidar\u00e1 com a busca e tratamento das informa\u00e7\u00f5es de cota\u00e7\u00e3o e convers\u00e3o das moedas.",
+    "bugs": {
+        "url": "https://gitlab.com/GabrielBuenodev/04_kencrypto/issues"
+    },
+    "homepage": "https://gitlab.com/GabrielBuenodev/04_kencrypto#readme",
+    "_id": "04_kencrypto@1.0.4",
+    "_nodeVersion": "16.7.0",
+    "_npmVersion": "7.20.3",
+    "dist": {
+        "integrity": "sha512-DXldF3v/2kEu0x7wV2LcwYCkyyVnESJScCBcFXS2aZRdCVGGs0ftzm1I990NZxtatgFAaZrq0QE404pfiQtIeA==",
+        "shasum": "6bd3142472c41fd18c48e158ce688cb81e0a3c70",
+        "tarball": "https://registry.npmjs.org/04_kencrypto/-/04_kencrypto-1.0.4.tgz",
+        "fileCount": 18,
+        "unpackedSize": 24285,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJh8/KACRA9TVsSAnZWagAAvBYP/1921Ej006ScerRYZVyU\njikg+hM6dimWq+jv6lTV+2yG9hvJBwMuESgR1lXG587w7j/76eYOHp4UIevh\nNjLQYXrkNK6fDKn/I1thvS1uGrhKmR/EcOMn2Y0IMyX/ueKMjqI3rPTaud3G\n4oq8mB1mBpr2S3xLwC8hJOx7zsqEkVgrEaRuZn2MXchGUlDKJ1aI8mGW00NQ\nP/vwEtweKEE+D5dc6t2uMYNpsPtWeGzwJRLxHGBxIkHS+bmids9LpNxbnqhd\njl6h9T10t5m5BG5qp1woUxv+yE5HYyAJoHVCDvAjwJLb1C5Thdw3xiDMpnW5\nDDgmP1SGot2/benN+koZVMf5TjJ6XENUv09YpHnYEMt12IG/qQvSXxpXaYQZ\ndcOBq1Ak5wS/86bGFNrPgf6VoguPR9EQfXX8hkWVBF/2WrJHqGcqrg0h9+oS\nYOR3N+iSFST8BXi4wfVCrAhy0eScQ8fpx74eSMW4afhX3bZRh0QOx3JSKV6n\ncORU2GaqhpAvvyd7aURpckwsaIZjD6JsbiBxqXrw7MFGsRup3QMtwXtOrJPr\neNXlyT292hR5xANghv1BZIwVjhM3lnQp7No5p6WLC3u+9mlqyf97KKgyO4YY\nCYYyFx1Haid2EEezwntNBvIF6JW+KmhZrQycRpuCWIwC3dbbX+k0XzlSqTLi\nKz7n\r\n=PFg6\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIGyhnlaH/7Zmz+1BYvH1NU/VPVS1r3rnWJO39xYVgQwAAiBScuUMDMt30pwdkrbtBbbZ24lSVI9iDJl9eQQIE2vPNw=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "gabrielbuenodev",
+        "email": "gabrielcb84@hotmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "gabrielbuenodev",
+            "email": "gabrielcb84@hotmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/04_kencrypto_1.0.4_1643377280434_0.8533888931379294"
+    },
+    "_hasShrinkwrap": false
+}

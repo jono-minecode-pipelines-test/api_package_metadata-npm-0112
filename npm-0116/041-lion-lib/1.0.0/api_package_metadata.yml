@@ -1,0 +1,45 @@
+{
+    "name": "041-lion-lib",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "041-lion-lib@1.0.0",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.12",
+    "dist": {
+        "integrity": "sha512-K+EOPvmJ2Un6O32JM64KlAjdudQRRR3P8TJg7rDP6Z8A9xD3ifDmbgEuP6aQ68TLB1SeUX1TUorIbKfvN47fgw==",
+        "shasum": "65d3422cb8c8816bd7868555acc270e2acdfb47d",
+        "tarball": "https://registry.npmjs.org/041-lion-lib/-/041-lion-lib-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 277,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJgo8D0CRA9TVsSAnZWagAAlbEQAKQ9FG2paYeAkLAbHrV1\negFj9x9In3Qiu4m5K8irZAS+JO9mnJDRdWdNEDztLCHUxZLfLsmGU3tKdE37\nPWyap53gEiSOSAUQO5P85HPg49iYuOc3XScUnoJCmUIb3YgAPepplOlQJsom\nxuf1Y32f1lesp/g8MXBIVOx8SWkN/oXWNgE3GT27Gd1RfeJduj2Mjj6vSJOr\nMv7ujDXOFvYMLkE3HtuKeg2d+Zssk3gYHbJqhvKNC2cOQxCht4AKjvRhZPyH\nHDQQbMENuK5B7jsd59Xd/fLKrq8DLfyQ+9cUuS7mi8shwKgd76YS2zA9Y21K\nINmweRBTIBw2Z5fBeU1PGSP+Vdc/oUaX5mGy+uQILF7g8gQfLgeGIA13k9GG\ng2LIsWrP+0pkUqOMUeyjrafNxBmH6ggR2N3dqznFLCU2qavGZ6Bzpp+VrEM9\nJGN8oWR5GYKQm4XfwaCaFYiA7AeQlaQGdb5o1yOcx3cmglDsXbYHtkY62oSa\nPzNTwnyPt6/QEe1CL12QbS10lMmiZwBJ4Z6dKy4krdePXqj9gqr9L89cFu4K\n5dGu+ABFEz15eWSGewBZetuO+wXoSVUMw+rVBYNa+3TrKTN4iOhCkIYilhuh\nEt9OruDklM3L7R2Pg8sWbU7fC6AmsErR9mdioGoASSbAOKX0g+7aXsP1IlUl\nJlSt\r\n=rWck\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIAPzyiqqgfNy7CHV/wKB72d50jwxWtLflS3RRdtnxFsrAiEAgqDYmvPEERxgn6AMpMBcQ9hvXL7UWz2XjT4oC54iSrk="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "murli.rajagopalan",
+        "email": "murli.rajagopalan@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "murli.rajagopalan",
+            "email": "murli.rajagopalan@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/041-lion-lib_1.0.0_1621344499759_0.4769631096770732"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,88 @@
+{
+    "name": "0g",
+    "version": "0.3.0",
+    "description": "The weightless game framework for TypeScript.",
+    "type": "module",
+    "exports": {
+        ".": {
+            "import": "./dist/index.js",
+            "types": "./dist/index.d.ts"
+        },
+        "./input": {
+            "import": "./dist/input/index.js",
+            "types": "./dist/input/index.d.ts"
+        }
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/a-type/0g.git"
+    },
+    "keywords": [],
+    "author": {
+        "name": "Grant Forrest",
+        "email": "gaforres@gmail.com",
+        "url": "https://github.com/a-type"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/a-type/0g/issues"
+    },
+    "homepage": "https://github.com/a-type/0g#readme",
+    "devDependencies": {
+        "@types/shortid": "0.0.32",
+        "jsdom": "^24.0.0",
+        "typedoc": "0.25.13",
+        "typedoc-plugin-internal-external": "^2.2.0",
+        "typescript": "5.4.5",
+        "vite": "5.2.10",
+        "vitest": "1.5.2"
+    },
+    "dependencies": {
+        "@a-type/utils": "1.1.0",
+        "mnemonist": "0.39.8",
+        "shortid": "^2.2.16"
+    },
+    "scripts": {
+        "test": "vitest",
+        "build": "tsc",
+        "typedoc": "typedoc --options typedoc.json"
+    },
+    "_id": "0g@0.3.0",
+    "_integrity": "sha512-GVAbJGulCR2TNtXcZf1eVWReulkNA3zL6GmpoxZKmnCuhEMB0iDJsnPgxNheoHinJi1xf8MR8u050qo5d7O64Q==",
+    "_resolved": "/tmp/fe7b460088c13aaf5ec232345d1928f4/0g-0.3.0.tgz",
+    "_from": "file:0g-0.3.0.tgz",
+    "_nodeVersion": "18.20.2",
+    "_npmVersion": "10.5.0",
+    "dist": {
+        "integrity": "sha512-GVAbJGulCR2TNtXcZf1eVWReulkNA3zL6GmpoxZKmnCuhEMB0iDJsnPgxNheoHinJi1xf8MR8u050qo5d7O64Q==",
+        "shasum": "67e472b646382fca73091b71e68dc1d6ec57a26c",
+        "tarball": "https://registry.npmjs.org/0g/-/0g-0.3.0.tgz",
+        "fileCount": 143,
+        "unpackedSize": 249150,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCICxMh9v+2R4d3p/6KGzctJJTaTNOu5croJMuK5ls/iYZAiEAw9wr6f16Pl4PfSHZCucijtcJyxoXvpyrGyRYNsKotvM="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "a-type",
+        "email": "gaforres@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "a-type",
+            "email": "gaforres@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0g_0.3.0_1715631983180_0.47802716613165375"
+    },
+    "_hasShrinkwrap": false
+}

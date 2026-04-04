@@ -1,0 +1,100 @@
+{
+    "name": "0g",
+    "version": "0.0.2",
+    "description": "## Entities, Systems, and Stores",
+    "main": "./dist/index.js",
+    "module": "./dist-esm/index.js",
+    "typings": "./dist-esm/index.d.ts",
+    "scripts": {
+        "test": "jest",
+        "test:watch": "jest --watch --bail",
+        "build:cjs": "tsc",
+        "build:esm": "tsc -m es6 --outDir dist-esm",
+        "build": "concurrently \"yarn build:cjs\" \"yarn build:esm\"",
+        "dev:cjs": "tsc --watch",
+        "dev:esm": "tsc -m es6 --outDir dist-esm --watch",
+        "dev": "concurrently \"yarn dev:cjs\" \"yarn dev:esm\"",
+        "prepublishOnly": "yarn build",
+        "release": "npm publish --access public",
+        "storybook": "start-storybook -p 6006",
+        "storybook:build": "build-storybook -o docs/storybook",
+        "typedoc": "typedoc --options typedoc.json"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/a-type/0g.git"
+    },
+    "keywords": [],
+    "author": {
+        "name": "Grant Forrest",
+        "email": "gaforres@gmail.com",
+        "url": "https://github.com/a-type"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/a-type/0g/issues"
+    },
+    "homepage": "https://github.com/a-type/0g#readme",
+    "peerDependencies": {},
+    "devDependencies": {
+        "@babel/core": "^7.10.5",
+        "@babel/preset-env": "^7.10.4",
+        "@babel/preset-react": "^7.10.4",
+        "@babel/preset-typescript": "^7.10.4",
+        "@testing-library/jest-dom": "^5.11.1",
+        "@testing-library/react": "^10.4.7",
+        "@types/jest": "^26.0.5",
+        "@types/node": "^14.0.23",
+        "@types/ramda": "^0.27.32",
+        "@types/react": "^17.0.0",
+        "@types/react-dom": "^17.0.0",
+        "@types/shortid": "0.0.29",
+        "@typescript-eslint/eslint-plugin": "^4.8.1",
+        "@typescript-eslint/parser": "^4.8.1",
+        "babel-loader": "^8.1.0",
+        "concurrently": "^5.3.0",
+        "eslint": "^7.13.0",
+        "eslint-plugin-react": "^7.21.5",
+        "eslint-plugin-react-hooks": "^4.2.0",
+        "jest": "^26.6.3",
+        "prettier": "^2.0.5",
+        "typedoc": "0.17.0-3",
+        "typedoc-plugin-internal-external": "^2.2.0",
+        "typescript": "^4.1.2"
+    },
+    "dependencies": {
+        "shortid": "^2.2.16"
+    },
+    "_id": "0g@0.0.2",
+    "dist": {
+        "shasum": "05809894d57329dcabfd3400c39c8c347121508f",
+        "integrity": "sha512-qHeDAVa41KUWjRPvGybMx1NcpEJpL0IHdNaFirOqKwI5usYIT6l8eLt2mgeEFgxR+anHGn0AorzvSP9MJIaeoQ==",
+        "tarball": "https://registry.npmjs.org/0g/-/0g-0.0.2.tgz",
+        "fileCount": 285,
+        "unpackedSize": 344657,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJf4/0kCRA9TVsSAnZWagAAaCQP/AuEpTmME+Qg4kG0QxWZ\na5URe5ICohmv/Cp3AtBLnhCHfCEBaPepVnqN3NgkatMkxay15GKaTRifDfUe\nT36XItwsWwZaTKg7z8OeWUnXeA5mVN2zFQspNwzABLGr04Vq0RN0BipPOXEo\nQItsf5tk480NxoqY2n9kbEwNZcmVLwV10kBznbn4Rn4UNEzTl9wkpgiXQS07\nHmgn3sFIfC/7X99Lwkw0AH/v+bld4ocg6s98edncZyi6UOuezHgW97VzsxP1\nYH2McCYPNOxR1//8/20YHJ0O5cT0TMOby1ZSyiyBhhnFgA2FLr0TU7y1Wez2\nVvSU3+yYtCBTotv1MPMjswKU9+sBNbbeJi6Of/mi6nzeR6Py8CgbFhSsPkBu\ndsBwopFSyWLoqCn15L8zu5NasDmLD9Hm8TvLt78Eo6rozgkT4gMECbQj9byM\n9U6hX4B8AkYPuc10c3YnfG2IYyyAhgyjsG2Vopm/CmFSr1/Q3tNWV5B1u/wj\nQxM7mw7Es6WHEDjgbvXKtQ9ggKx+ZJRxJB7rAwwsFzjTxOa/2sc/UwoFqy3A\nMGS/9kaNQvnPCKVzKezO2cR2i9cNUvU/SkSNfFGS5HPImlGjvOBOqvo/ylJE\ny3tzFBd97wtmK5OLSWvX5QvXru4V4R8B+q/OYxituAD/vs3udBSzTY3+TvJO\nYkIn\r\n=qR6q\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBMvxvnYZwRmnBXqMhUPGmI776KcIP5T1MWaSabCwJZnAiBLwnqL7M4v6MMktWE99BVp2OkMZqKuq4qZX1hquJFKsA=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "a-type",
+        "email": "gaforres@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "a-type",
+            "email": "gaforres@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0g_0.0.2_1608776996318_0.7675777067092122"
+    },
+    "_hasShrinkwrap": false,
+    "deprecated": "try miniplex instead"
+}

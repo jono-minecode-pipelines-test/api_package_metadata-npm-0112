@@ -1,0 +1,56 @@
+{
+    "name": "05.word-counter-by-alina",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "05.word-counter-by-alina": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "name": "syedaAlina"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7",
+        "@types/node": "^20.14.2"
+    },
+    "dependencies": {
+        "inquirer": "^9.2.23"
+    },
+    "_id": "05.word-counter-by-alina@1.0.0",
+    "_nodeVersion": "21.6.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-xOHoXpnxnDIgXVahWRoQ538lEnzUd3avq9StcHmnZHFs0DjaE4d6+T53MMbTKFQWAf2YKsbATAS1aHoAg+GCIw==",
+        "shasum": "b8567df09ca52d204bdee3ffe9a0be0183e5ac52",
+        "tarball": "https://registry.npmjs.org/05.word-counter-by-alina/-/05.word-counter-by-alina-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 13402,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCZgGTN0N/3OATFnl9Kv8orLrD2BVStjgs9+NP0L9agQwIgawDNuEPCDICW988MZm+OfqUUF9y+FB11HC3B5h6s50c="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "syeda-aleena",
+        "email": "awhngsu2689@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "syeda-aleena",
+            "email": "awhngsu2689@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/05.word-counter-by-alina_1.0.0_1718042260884_0.498330679343447"
+    },
+    "_hasShrinkwrap": false
+}

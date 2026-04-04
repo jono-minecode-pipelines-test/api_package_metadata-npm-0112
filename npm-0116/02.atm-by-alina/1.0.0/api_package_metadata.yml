@@ -1,0 +1,56 @@
+{
+    "name": "02.atm-by-alina",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "02.atm-by-alina": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "name": "syedaalina"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7",
+        "@types/node": "^20.14.2"
+    },
+    "dependencies": {
+        "inquirer": "^9.2.23"
+    },
+    "_id": "02.atm-by-alina@1.0.0",
+    "_nodeVersion": "21.6.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-IiHCvtQnp73ZeLu4mcl9tjiZjdX9H15aLafkvzJCEbl+vMrx5Jy0VrpnXtLjD1GZznD7AvzDF3WlXNyJA8A0NQ==",
+        "shasum": "9a4c84b624866f41813095761158174ca1bda5d4",
+        "tarball": "https://registry.npmjs.org/02.atm-by-alina/-/02.atm-by-alina-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 18469,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCNerPH3QD2aGUno+JqImUE0xZh/bbDfPyi4WlS2dIBFAIgASV0T2rWOeBXlLqiLyOxhMzk68gi68ZX7uUmBt1MVVc="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "syeda-aleena",
+        "email": "awhngsu2689@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "syeda-aleena",
+            "email": "awhngsu2689@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/02.atm-by-alina_1.0.0_1717756240383_0.1137356429212899"
+    },
+    "_hasShrinkwrap": false
+}

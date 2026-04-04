@@ -1,0 +1,45 @@
+{
+    "name": "0g9n5t",
+    "version": "1.1.0",
+    "description": "0g9n5t",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "anthonyhill64bt"
+    },
+    "license": "ISC",
+    "_id": "0g9n5t@1.1.0",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.5.2",
+    "dist": {
+        "integrity": "sha512-13YtGoFEgH7s82H6h6tvXSB4pHzqaTT+eiun+60hO03M5KMvDMU0cxGmIWtGG3qzhoV1JBUsZuWch09nKzNoUw==",
+        "shasum": "7ba12a2775a0d61eb5d894cb73874776961acc33",
+        "tarball": "https://registry.npmjs.org/0g9n5t/-/0g9n5t-1.1.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 896,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQD12M3n6LdCKV1vnbYfK9m7dTEVQk+fcfRMADmNyOewLQIhAJdbKRfOH3AD6iBG7NihYQ0tUQZ0T2DtwQaHhgcXXvBL"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "anthonyhill64bt",
+        "email": "anthonyhill64bt@cultureleb.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "anthonyhill64bt",
+            "email": "anthonyhill64bt@cultureleb.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0g9n5t_1.1.0_1683296558318_0.40907001552083755"
+    },
+    "_hasShrinkwrap": false
+}

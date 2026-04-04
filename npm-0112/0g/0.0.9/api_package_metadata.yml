@@ -1,0 +1,100 @@
+{
+    "name": "0g",
+    "version": "0.0.9",
+    "description": "The weightless game framework for TypeScript.",
+    "main": "./dist/index.js",
+    "module": "./dist-esm/index.js",
+    "typings": "./dist-esm/index.d.ts",
+    "scripts": {
+        "test": "jest",
+        "test:watch": "jest --watch --bail",
+        "build:cjs": "tsc",
+        "build:esm": "tsc -m es6 --outDir dist-esm",
+        "build": "concurrently \"yarn build:cjs\" \"yarn build:esm\"",
+        "dev:cjs": "tsc --watch",
+        "dev:esm": "tsc -m es6 --outDir dist-esm --watch",
+        "dev": "concurrently \"yarn dev:cjs\" \"yarn dev:esm\"",
+        "prepublishOnly": "yarn build",
+        "release": "npm publish --access public --registry https://registry.npmjs.org",
+        "storybook": "start-storybook -p 6006",
+        "storybook:build": "build-storybook -o docs/storybook",
+        "typedoc": "typedoc --options typedoc.json"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/a-type/0g.git"
+    },
+    "keywords": [],
+    "author": {
+        "name": "Grant Forrest",
+        "email": "gaforres@gmail.com",
+        "url": "https://github.com/a-type"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/a-type/0g/issues"
+    },
+    "homepage": "https://github.com/a-type/0g#readme",
+    "peerDependencies": {},
+    "devDependencies": {
+        "@babel/core": "^7.10.5",
+        "@babel/preset-env": "^7.10.4",
+        "@babel/preset-react": "^7.10.4",
+        "@babel/preset-typescript": "^7.10.4",
+        "@testing-library/jest-dom": "^5.11.1",
+        "@testing-library/react": "^10.4.7",
+        "@types/jest": "^26.0.5",
+        "@types/node": "^14.0.23",
+        "@types/ramda": "^0.27.32",
+        "@types/react": "^17.0.0",
+        "@types/react-dom": "^17.0.0",
+        "@types/shortid": "0.0.29",
+        "@typescript-eslint/eslint-plugin": "^4.8.1",
+        "@typescript-eslint/parser": "^4.8.1",
+        "babel-loader": "^8.1.0",
+        "concurrently": "^5.3.0",
+        "eslint": "^7.13.0",
+        "eslint-plugin-react": "^7.21.5",
+        "eslint-plugin-react-hooks": "^4.2.0",
+        "jest": "^26.6.3",
+        "prettier": "^2.0.5",
+        "typedoc": "0.17.0-3",
+        "typedoc-plugin-internal-external": "^2.2.0",
+        "typescript": "^4.1.2"
+    },
+    "dependencies": {
+        "events": "^3.3.0"
+    },
+    "_id": "0g@0.0.9",
+    "dist": {
+        "shasum": "4e4e0bc424a39f9306bff1f8bcff182e0aecec88",
+        "integrity": "sha512-+puq1wfKqtuUdGQboOEr+3dW+X9Ifni+quTC9k+2CcmE9MLYqBRqSBtFaS70gqJ4J4EGIe+l2MkLSoJWwh2MBA==",
+        "tarball": "https://registry.npmjs.org/0g/-/0g-0.0.9.tgz",
+        "fileCount": 221,
+        "unpackedSize": 394398,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDCk+ADqfsyv+zS1hQdbbVqUj+t48jU0KeXHxNn73ofMQIhAOfnPmrcThAfm1xCAkZRD3/EqHP1r9SsoUgKSS7/P5uj"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJim8+zACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmrjzg//ewUFPDIzZ9orQ8a2F9cjSvPLk9PzVRIs3VMqNgQGxISH0yhi\r\nuOqSUocJ48exRZUGnIvaz4JJbZbU+t8SoFuKolMjfr0/8bsSx6Wvj0H0LfZv\r\nJzLeYbvYQsapAEswcjYQMcKbLZ+ADwMIouhlOaEd25HIvvH0DKg7RHuzxyQy\r\nlu7F/fFAqKPYO0gsGEdC2MFbWIA+OG40DZ+S+z7+pbKYjBxyo/T5o7Wb58kb\r\nZuGnnsWk4DZZioJaJY8OCMPCG/nTaa10LS/zDAfSn+HFo9D0luFUBz+vHP7u\r\nIXxC9CKocPQwMUSez2EOYOaQ8fLrCN1PgRXq90TggOtEnZMTs/usAv4/IgO6\r\nqJAFupoWd9EVzxcjAEPdshQ8MHhj5KhJ3fnUaF25YlzAdFkgCaD0jpRMawBj\r\npa+oKrR2ehxZk/buD9A/6HkxyDFqiK5vL5QvjCxYn9ZgJFAM8rYLZLIypLft\r\naCyt9IdC1Vm1O3XcKIsqQ8CXR0RFrsYtVxXSU7ENIs0K3+MLQlwcX4meXAnl\r\n/rGacHVZaKt4UcaQl+uXQc0APLcjMMVSUwqUNCEBg4gBia778VPk05ycD2az\r\nWflH84YhB+SMZzv2bhPpRyMOpj61dVeqvf/sYHnaQgx0pL/Hg4RQqnN2trnC\r\nzh67sS5yay73NgVfm4qbjnPsUBat0lkme6k=\r\n=VOD1\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "a-type",
+        "email": "gaforres@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "a-type",
+            "email": "gaforres@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0g_0.0.9_1654378419624_0.643557999928617"
+    },
+    "_hasShrinkwrap": false,
+    "deprecated": "try miniplex instead"
+}

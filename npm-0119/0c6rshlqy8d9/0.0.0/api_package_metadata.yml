@@ -1,0 +1,44 @@
+{
+    "name": "0c6rshlqy8d9",
+    "version": "0.0.0",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "0c6rshlqy8d9@0.0.0",
+    "maintainers": [
+        {
+            "name": "happysimplefish",
+            "email": "happysimplefish@demudo.org"
+        }
+    ],
+    "dist": {
+        "shasum": "65ac44bfa77f4eda3e4e4620b0ccef90b0cc9b33",
+        "tarball": "https://registry.npmjs.org/0c6rshlqy8d9/-/0c6rshlqy8d9-0.0.0.tgz",
+        "fileCount": 2,
+        "integrity": "sha512-/pAIH5mJaX8k5EGYg+y0xvpHTOlPubJXPBslgJgKKp+q8D+IP5csU9lZ3m0pW0VD/ffGNATH4HQMEDVw+7vebg==",
+        "signatures": [
+            {
+                "sig": "MEUCIE1QL3uwIktUGz/Qec5pEmOzTLMfb2H+LAUaUYrgQPEGAiEAx0xmr63uRgH16Avwx4N3GxxufkunoULwQcDPvHXw0tA=",
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+            }
+        ],
+        "unpackedSize": 4419401
+    },
+    "main": "dict.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "_npmUser": {
+        "name": "happysimplefish",
+        "email": "happysimplefish@demudo.org"
+    },
+    "_npmVersion": "8.19.4",
+    "description": "A library to load encoding dictionary data",
+    "directories": {},
+    "_nodeVersion": "16.20.2",
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/0c6rshlqy8d9_0.0.0_1741665609067_0.013035222238474198",
+        "host": "s3://npm-registry-packages-npm-production"
+    }
+}

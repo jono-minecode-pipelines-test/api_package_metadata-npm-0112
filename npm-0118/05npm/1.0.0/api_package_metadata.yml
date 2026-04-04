@@ -1,0 +1,43 @@
+{
+    "name": "05npm",
+    "version": "1.0.0",
+    "description": "npm\u7684\u5b66\u4e60",
+    "main": "index.js",
+    "scripts": {
+        "test": "console.log('just for text')"
+    },
+    "author": {
+        "name": "qy"
+    },
+    "license": "ISC",
+    "_id": "05npm@1.0.0",
+    "_shasum": "b611e75e53532f21d151f60859fbc3fb5be911fc",
+    "_from": ".",
+    "_npmVersion": "2.15.9",
+    "_nodeVersion": "4.6.1",
+    "_npmUser": {
+        "name": "1609qy",
+        "email": "guowai@qingyun.com"
+    },
+    "dist": {
+        "shasum": "b611e75e53532f21d151f60859fbc3fb5be911fc",
+        "tarball": "https://registry.npmjs.org/05npm/-/05npm-1.0.0.tgz",
+        "integrity": "sha512-wrCrrTNR209+CWJZUiO6UsQ3uHr+oOhCMDRfy5a8YB+6DYMhw7FP3osylbT/kriNcv05PnXGU1b9/B/JRM2XNw==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIFO24ms/O1YVWy6B1i0tEoRSHWro2kc/pVSZKs2ojunSAiAxgVAlLZxAp2c0jRW1OftUZeOm8t5Nge/Egc1va2IuhA=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "1609qy",
+            "email": "guowai@qingyun.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "packages-12-west.internal.npmjs.com",
+        "tmp": "tmp/05npm-1.0.0.tgz_1479539706982_0.7521652532741427"
+    }
+}
