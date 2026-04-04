@@ -1,0 +1,54 @@
+{
+    "name": "001-simple-calculator",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "001-simple-calculator": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "meh"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "^9.2.16"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "001-simple-calculator@1.0.0",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-jk70g2siemoZ1bnEHzuhv7s0RBZ/WxUPabygCKulat72cZDQ9dOgY4LxffpR2/lI4VGEBExk/U6FcMV50LEm+g==",
+        "shasum": "ab1a6b0d3c1fdb2e25d8256766d22cc7a77cda26",
+        "tarball": "https://registry.npmjs.org/001-simple-calculator/-/001-simple-calculator-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 14790,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQC7mWCnKOQvksuoGmlRs6xLhVa7EjjIzrqIIRaArPFOMgIgbrLeczH/52wR+dGyDZ+7CTGxd4EcVO8ZjodPeublFq4="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "qurat_25",
+        "email": "quratulainshoukat26@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "qurat_25",
+            "email": "quratulainshoukat26@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/001-simple-calculator_1.0.0_1711377541508_0.41882163401218175"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,43 @@
+{
+    "name": "0182dc86",
+    "version": "1.0.0",
+    "author": "",
+    "license": "ISC",
+    "_id": "0182dc86@1.0.0",
+    "maintainers": [
+        {
+            "name": "opposite94",
+            "email": "sapphireruby139@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "43f11cd60740d0124b317e41b9d41381ba7f7550",
+        "tarball": "https://registry.npmjs.org/0182dc86/-/0182dc86-1.0.0.tgz",
+        "fileCount": 2,
+        "integrity": "sha512-Da+a5ywrKG/CRNPqVuXWFczpwvHwDYNb+rFtDgsqYala6+0Iv8s+khQ1s6V3hocBNqW+uvbhkdFhsvL+1PLA6g==",
+        "signatures": [
+            {
+                "sig": "MEUCIQCR42+x12Q/R3fw/EZFmZ0Y0moQIiyfBQdm4FR4f7alnAIgUz68bIBKvgRDSPW7k6FTL2JvCDysGFShxqtNlOt3RZ0=",
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+            }
+        ],
+        "unpackedSize": 313
+    },
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "_npmUser": {
+        "name": "opposite94",
+        "email": "sapphireruby139@gmail.com"
+    },
+    "_npmVersion": "9.2.0",
+    "description": "",
+    "directories": {},
+    "_nodeVersion": "18.20.4",
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/0182dc86_1.0.0_1764508810005_0.14889683962329125",
+        "host": "s3://npm-registry-packages-npm-production"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "name": "0.1f",
+    "version": "0.0.2",
+    "description": "a simple formater and only format to 0.1",
+    "main": "index.js",
+    "scripts": {
+        "test": "npm test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mengxingshike2012/0.1.git"
+    },
+    "keywords": [
+        "0.1",
+        "format"
+    ],
+    "author": {
+        "name": "windfantasy"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mengxingshike2012/0.1/issues"
+    },
+    "homepage": "https://github.com/mengxingshike2012/0.1#readme",
+    "gitHead": "94de7ba4f8b7de8429127cc11b2292b60ceeae82",
+    "_id": "0.1f@0.0.2",
+    "_nodeVersion": "10.16.0",
+    "_npmVersion": "6.9.0",
+    "dist": {
+        "integrity": "sha512-Qv+yQKynlAq0TORBJf82sVlePqUcLbN+i8KaNbmqQx3P3ObPg7bJk2b4Dl1wFYlnWRy1DJQ603nC5BId1lrABw==",
+        "shasum": "e355b89a1b13e1a35f11268c25e63546e22cad57",
+        "tarball": "https://registry.npmjs.org/0.1f/-/0.1f-0.0.2.tgz",
+        "fileCount": 4,
+        "unpackedSize": 1893,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfzkhCCRA9TVsSAnZWagAAqrYP/ApcY4aUZB+XWXIb7aWR\n6HDEetIggR3RjpiW9/KZM84FxePdCm/py3COqA00UHJRRKxbBuud8FJHFWcz\nMRUDzpwSSOQkdjxPBmHOcJCGxD6JWZFDsZaBW8veRQiGXeVI3quJ72C4VpsD\nVqkYeRea85CFyVBDHhucBUDJxGl4katMsJfWDAxs1tG72Y63U9evlXScWQhs\nyaYQ0fVC5dLrEtUyP9vkO5rHSJPsVslj1ndWRWk/3XlrOBk28coL18FVmH3F\nG6tM7tsorIgSuTpz4YPRw28W1m2ljO0RorzoPqChcIewi71Cs1BuLCxJGjN/\nzVlkmYYBKF9nOMaKigg60IjIoBZVgfBZpH/kZwPDG5ayYo2Igo1Fit3KO73U\nBlYTlUyesm+U2VmxowHVi7rrmuR7EOYEV9lmoVXoSmyDVSEX+avjEjilvAQu\nXW/+5jUPkfa3UCpCRf+ONcCcIbW4hw63rzDcejLtAejMqh+7PPOyfeNnwjwb\n9YX5GMPDtrNSaF2msv/PB5IZ0T6Cqw9FJ5UjoRY2MQfbyM0F8IAkP4ZC7C9Z\nFUFcU5nSWWGSn/Gg/zMckQiz0Fem8PVEfvVXGF3Gl8TIPa6KXKv1U06yvrNe\nY4/hM/ioX61eAj9gl3V/DjxBDxQczRgiv9reO/jVQxPPdJCe9zSiVOqODdGY\nAup4\r\n=Q5kK\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDI9wD8K7wW9Rs9BxaVjm7DMJHmFKDjL95XeWwJF6q9XAIgPH+3edhohD4eVxdwOnWsr1PYHoXhIm00kl0/mstCfxM="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "mengxingshike2012",
+        "email": "wind_fantasy@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "mengxingshike2012",
+            "email": "wind_fantasy@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0.1f_0.0.2_1607354433807_0.0917976049629341"
+    },
+    "_hasShrinkwrap": false
+}

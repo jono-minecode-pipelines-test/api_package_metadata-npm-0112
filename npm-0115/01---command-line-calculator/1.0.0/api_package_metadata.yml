@@ -1,0 +1,53 @@
+{
+    "name": "01---command-line-calculator",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "calculator": "dist/calculator.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7",
+        "@types/node": "^20.12.3",
+        "inquirer": "^9.2.17",
+        "typescript": "^5.4.3"
+    },
+    "_id": "01---command-line-calculator@1.0.0",
+    "gitHead": "260cfd96e365dfad235c557ea52a375816bd55b3",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-U/Yhe77kd09LOjSQrYEh8ICeg1755/dClB2/ot4/EtHuRb5/OEbM51lr6fD0TvFOkGqFpJ+AunNWI2OcWfPOmw==",
+        "shasum": "36735d8d5d35e1f9dced9d10fb869ae6cdf1bbb6",
+        "tarball": "https://registry.npmjs.org/01---command-line-calculator/-/01---command-line-calculator-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 16137,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDtRdBMcx13hnKnSV2/qcMibHoL+74ECrpY2fRRf5p+KwIhAOkSUbhAz9T40/kjlVh7rGB17bHhiBLxhln/gr1Fh5uV"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "redcryp7o",
+        "email": "technicalsumra786@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "redcryp7o",
+            "email": "technicalsumra786@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/01---command-line-calculator_1.0.0_1712132132849_0.9967464663426708"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,57 @@
+{
+    "name": "0.1f",
+    "version": "0.0.1",
+    "description": "a simple formater and only format to 0.1",
+    "main": "index.js",
+    "scripts": {
+        "test": "npm test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mengxingshike2012/0.1.git"
+    },
+    "keywords": [
+        "0.1",
+        "format"
+    ],
+    "author": {
+        "name": "windfantasy"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mengxingshike2012/0.1/issues"
+    },
+    "homepage": "https://github.com/mengxingshike2012/0.1#readme",
+    "gitHead": "f174947b5d8005ce264eaffb89808a1df939f845",
+    "_id": "0.1f@0.0.1",
+    "_shasum": "351dc14c6400dc4050ab3b2b8d777734e81aa81e",
+    "_from": ".",
+    "_npmVersion": "3.10.8",
+    "_nodeVersion": "6.9.1",
+    "_npmUser": {
+        "name": "mengxingshike2012",
+        "email": "wind_fantasy@qq.com"
+    },
+    "dist": {
+        "shasum": "351dc14c6400dc4050ab3b2b8d777734e81aa81e",
+        "tarball": "https://registry.npmjs.org/0.1f/-/0.1f-0.0.1.tgz",
+        "integrity": "sha512-6/K8qkh8Zbl1s7YCxm+j/L4onpsQ2vGjIDCwt8TCOkgDJA9j6YkGA3Ff2o65rjyntvJI/Q3UZGlsTBA/l7R+0Q==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIDIskvOXy/dBpL6dot8yc+we81ER2sJ89Dw64kGeacYWAiAO63Am4pkQ78GFuMiTe+fPZ3ONJ3Mq5X9z9WhxH/a4qQ=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "mengxingshike2012",
+            "email": "wind_fantasy@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0.1f-0.0.1.tgz_1501466199851_0.9641473679803312"
+    },
+    "directories": {}
+}
