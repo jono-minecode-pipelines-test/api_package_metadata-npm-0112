@@ -1,0 +1,55 @@
+{
+    "name": "glory-roles",
+    "version": "1.0.0",
+    "description": "Discord bot for exporting member roles to spreadsheets",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "commander": "^8.2.0",
+        "conf": "^10.0.3",
+        "discord.js": "^13.1.0",
+        "dotenv": "^10.0.0",
+        "fs-extra": "^10.0.0"
+    },
+    "bin": {
+        "glory-roles": "app.js"
+    },
+    "gitHead": "e0c75faa5e729a7cb6788ac26eb6442f39184444",
+    "_id": "glory-roles@1.0.0",
+    "_nodeVersion": "16.9.1",
+    "_npmVersion": "7.21.1",
+    "dist": {
+        "integrity": "sha512-XnHLm9pQ4sgcC2CJi/ek2CJP332EOwLtW4RULfI7M2u/mvaIiqxPyeY8LF/f37yH2tleqZP96z3Z/GVfL+6rBg==",
+        "shasum": "00f55b4db0c18ba8a49702368e9c21a52476cc36",
+        "tarball": "https://registry.npmjs.org/glory-roles/-/glory-roles-1.0.0.tgz",
+        "fileCount": 7,
+        "unpackedSize": 15560,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCu6XxcBxUcJjMDqk5C8bfoow31AXULQf4T4UINrWaiogIhAKzM3B75vZ1qcuoM+0Wbwbyx/CI8CcjMOlRqIVodhKlU"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "goodman.c104",
+        "email": "goodman.c104@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "goodman.c104",
+            "email": "goodman.c104@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/glory-roles_1.0.0_1632191482385_0.4491956190746256"
+    },
+    "_hasShrinkwrap": false
+}

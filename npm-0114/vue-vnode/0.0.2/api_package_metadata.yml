@@ -1,0 +1,44 @@
+{
+    "name": "vue-vnode",
+    "version": "0.0.2",
+    "description": "A component that renders vnodes",
+    "main": "index.js",
+    "author": {
+        "name": "trickstival"
+    },
+    "license": "MIT",
+    "gitHead": "ba6164101f21c22ced9a54146eef1bfa182d7c51",
+    "_id": "vue-vnode@0.0.2",
+    "_nodeVersion": "11.10.1",
+    "_npmVersion": "6.7.0",
+    "dist": {
+        "integrity": "sha512-suV8zHnORQ81r9epr16xGtd5NLG1pf6rWFCHwkk1iu5LE47lLaTsksDd1+3Uqo2cxQGDx/0RpqCVcPehNw52Jw==",
+        "shasum": "e35247050b0c2d55bf57ea62056f2f2bd60e4ff5",
+        "tarball": "https://registry.npmjs.org/vue-vnode/-/vue-vnode-0.0.2.tgz",
+        "fileCount": 3,
+        "unpackedSize": 701,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJclQSvCRA9TVsSAnZWagAAAbIP/01grlb9vUhZrm+gVwXM\ni5OuUBBABwv+aYskjp3ZZcqfbrdJHAuT1x/cw4vqjEpgW1DtorSPdEcEIkey\nmiiw5+LpnbDXD00lfzfRTD+ndCyZf1uMNtogyW15zH7mTlD8Im58LJ8y/G/x\nsqvLN+ADm4qBdHvt03bYLnewsrKvWjqd9cvD/O/aV7e7tZZP22KcJmHf8NNj\nJgjgpmE8rHPXRHnMCryqsDW9wF37+oQmib+zKFSVnla6U4QVQNnO5UB3zQlF\nCQ+bOUbvfSliSuIWYFyt1xO1slQOr16xBEnDebmTrHa5qYebyNyKGqUfayiK\nYrPDaYjeK2idcHm8pZzu9LCA7Gx7LHHjRgE7IdRBh5TtaTz05zdR56nFMYvD\n6NkceX9TxCOE+gTKpGSesdFYpkc5j1pyIrqvpsjtey9+ZB3hdHewC8SurUrk\nuMjyTN7x/H8jDnBVp6flRT2PCulFZOwfg5QoxSZRSKwZu9xNULUj55P8kQr8\nMln2kx4flCTXOe/olL+QfvOaQsj5B8TVrZ91OAs0JEOlEbPes7Np5FoHzlhR\nq2wblAeHG+yZZ/vws/93CrF6yyuMVISp7v4FtQPCJoi1qAJw59eZ0JvHcBR1\njsGcm2uF3Bh1iiK+CXmq9T47whpLULD3SNfDSuElPvV2I4phfMwN08b60ebY\n8aER\r\n=bRJm\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIFwP3ejhrxrjVOWIFrK0D1e+XOecmKAh8O8rqoRkXL/LAiEAojSW/kb8zTAmiQCdr7jBrPbv/U146TLoxm9ghqE7Zb4="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "trickstival",
+            "email": "trick_stival@hotmail.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "trickstival",
+        "email": "trick_stival@hotmail.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/vue-vnode_0.0.2_1553269934608_0.11302406647421148"
+    },
+    "_hasShrinkwrap": false
+}

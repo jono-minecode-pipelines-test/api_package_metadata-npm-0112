@@ -1,0 +1,41 @@
+{
+    "name": "vue-vnode",
+    "version": "0.0.1",
+    "description": "A component that renders vnodes",
+    "main": "index.js",
+    "author": {
+        "name": "trickstival"
+    },
+    "license": "MIT",
+    "_id": "vue-vnode@0.0.1",
+    "dist": {
+        "shasum": "bfb3a052633651b99dcc79632e26bbb2789d3965",
+        "integrity": "sha512-iWsonT3pEqiwcUBeWt4h2hTJ0l/QljboGY45kVMP2lvD8Rek6g1dFONfqn3K2HZJZual9lu59Mxd3XhNHsYuGw==",
+        "tarball": "https://registry.npmjs.org/vue-vnode/-/vue-vnode-0.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 701,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJclQPbCRA9TVsSAnZWagAACb4P/Aj8oVAQ80bGegKpVlk2\na81rJ+FFOBjohthXcl8Sj7Hjq906kMIOaQegPmTCjKvE2KK3YmmP/oKcYNN8\nA9r0C4N7n5El9IobJnkmC0rJKmoMG99lOxSJF9lb5jN7MS8OLsxNJas9Ws3H\n2og/IGmBMR8SWClVDQeIj5ql7+UAqaMqg5UI8ZvH1s3Ki4Kl5rFmmOJa7f+8\nzdKGzxQYk4vGSCKx9qYbyeJjqokEHXaffmdmnGN4cedujpZviG775clHHtpj\nftNMtM3OhW4ulmNL9sNoJEvl6iCJ1lXRN69zwvLgfZoMnSDpua96BWcuqA6p\ngWUVxJ7DomybpizxtKfybCwX/fMAGOnJx/cuGjtynoU85LVE0HkyMmITefPu\nH+H+z9duu+pyv2KwTzRZnDRvhY2Q/v6+wxQvLeODI+TE/i/9WX4MO8tx+yhn\nKKwgDQsVv0NOjNl3eyZI6kBwquu+5/zIpxNl9C3d4qZvZPWxOdOkc6Psg4w2\nHqCotZChgNXUzWryb1LOctvsbkXYG86tFGEymV+3S6te10VsRnKzoMP0X35C\nX/k66P0ZHDiLk0NSzM4b4/5+dCjrYZU181ZEmbqEaJOrPNAQBLsvphLm8jdZ\nOyhr5VsqV1Qf7trJt8Ud+xg4avGn3ou26e4aMezhTYE00lL06z2QtFzT0yy6\nRe0w\r\n=Q8cH\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCICeeEsbK8b5fdRRItrXnRc24q8rAlbZYpJbbjjQG5YYPAiAK79C9r8/Bp47j2/ZD9T0dTSsQEXHy8yXlIvfiF3pvKw=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "trickstival",
+            "email": "trick_stival@hotmail.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "trickstival",
+        "email": "trick_stival@hotmail.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/vue-vnode_0.0.1_1553269722564_0.8001860691177791"
+    },
+    "_hasShrinkwrap": false
+}
